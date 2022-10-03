@@ -1,0 +1,2228 @@
+Sky 1	0	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 1	4463457	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 1	4463458	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 1	4465974	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 1	4465976	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 1	4465977	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 1	4465983	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 1	4465993	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 1	4466003	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 1	0	Radio channel -3337<br>
+Sky 1	4468868	Radio channel 26<br>
+Sky 1	4469724	Radio channel 26<br>
+Sky 1	4470252	Radio channel 26<br>
+Sky 1	16188365	Radio channel 26<br>
+Sky 1	16189604	Radio channel 26<br>
+Sky 1	24000010	Radio channel 26<br>
+Sky 1	24001249	Radio channel 26<br>
+Sky 1	27903636	Radio channel 26<br>
+Sky 1	27904875	Radio channel 26<br>
+Sky 1	31810069	Radio channel 26<br>
+Sky 1	31811307	Radio channel 26<br>
+Sky 1	35721903	Radio channel 26<br>
+Sky 1	35723142	Radio channel 26<br>
+Sky 1	39630564	Radio channel 26<br>
+Sky 1	39631803	Radio channel 26<br>
+Sky 1	43532847	Radio channel 26<br>
+Sky 1	43534086	Radio channel 26<br>
+Sky 1	47439006	Radio channel 26<br>
+Sky 1	47440244	Radio channel 26<br>
+Sky 1	51341014	Radio channel 26<br>
+Sky 1	51342253	Radio channel 26<br>
+Sky 1	55247721	Radio channel 26<br>
+Sky 1	55248960	Radio channel 26<br>
+Sky 1	59158824	Radio channel 26<br>
+Sky 1	59160063	Radio channel 26<br>
+Sky 1	63065348	Radio channel 26<br>
+Sky 1	63066587	Radio channel 26<br>
+Sky 1	66971476	Radio channel 26<br>
+Sky 1	66972715	Radio channel 26<br>
+Sky 1	70878855	Radio channel 26<br>
+Sky 1	70880094	Radio channel 26<br>
+Sky 1	74786357	Radio channel 26<br>
+Sky 1	74787597	Radio channel 26<br>
+Sky 1	78687052	Radio channel 26<br>
+Sky 1	78688291	Radio channel 26<br>
+Sky 1	82593241	Radio channel 26<br>
+Sky 1	82594480	Radio channel 26<br>
+Sky 1	86501109	Radio channel 26<br>
+Sky 1	86502347	Radio channel 26<br>
+Sky 1	90409007	Radio channel 26<br>
+Sky 1	90410245	Radio channel 26<br>
+Sky 1	94310252	Radio channel 26<br>
+Sky 1	94311493	Radio channel 26<br>
+Sky 1	0	Radio HW was turned off<br>
+Sky 1	4469724	Radio HW was turned off<br>
+Sky 1	4470252	Radio HW was turned on<br>
+Sky 1	16188365	Radio HW was turned on<br>
+Sky 1	16189604	Radio HW was turned on<br>
+Sky 1	24000010	Radio HW was turned on<br>
+Sky 1	24001249	Radio HW was turned on<br>
+Sky 1	27903636	Radio HW was turned on<br>
+Sky 1	27904875	Radio HW was turned on<br>
+Sky 1	31810069	Radio HW was turned on<br>
+Sky 1	31811307	Radio HW was turned on<br>
+Sky 1	35721903	Radio HW was turned on<br>
+Sky 1	35723142	Radio HW was turned on<br>
+Sky 1	39630564	Radio HW was turned on<br>
+Sky 1	39631803	Radio HW was turned on<br>
+Sky 1	43532847	Radio HW was turned on<br>
+Sky 1	43534086	Radio HW was turned on<br>
+Sky 1	47439006	Radio HW was turned on<br>
+Sky 1	47440244	Radio HW was turned on<br>
+Sky 1	51341014	Radio HW was turned on<br>
+Sky 1	51342253	Radio HW was turned on<br>
+Sky 1	55247721	Radio HW was turned on<br>
+Sky 1	55248960	Radio HW was turned on<br>
+Sky 1	59158824	Radio HW was turned on<br>
+Sky 1	59160063	Radio HW was turned on<br>
+Sky 1	63065348	Radio HW was turned on<br>
+Sky 1	63066587	Radio HW was turned on<br>
+Sky 1	66971476	Radio HW was turned on<br>
+Sky 1	66972715	Radio HW was turned on<br>
+Sky 1	70878855	Radio HW was turned on<br>
+Sky 1	70880094	Radio HW was turned on<br>
+Sky 1	74786357	Radio HW was turned on<br>
+Sky 1	74787597	Radio HW was turned on<br>
+Sky 1	78687052	Radio HW was turned on<br>
+Sky 1	78688291	Radio HW was turned on<br>
+Sky 1	82593241	Radio HW was turned on<br>
+Sky 1	82594480	Radio HW was turned on<br>
+Sky 1	86501109	Radio HW was turned on<br>
+Sky 1	86502347	Radio HW was turned on<br>
+Sky 1	90409007	Radio HW was turned on<br>
+Sky 1	90410245	Radio HW was turned on<br>
+Sky 1	94310252	Radio HW was turned on<br>
+Sky 1	94311493	Radio HW was turned on<br>
+Sky 1	0	Radio idle from 0<br>
+Sky 1	16188589	Radio transmitting from 16188589<br>
+Sky 1	16189572	Radio idle from 16189572<br>
+Sky 1	16194378	Radio receiving from 16194378<br>
+Sky 1	16195361	Radio idle from 16195361<br>
+Sky 1	16199251	Radio receiving from 16199251<br>
+Sky 1	16200234	Radio idle from 16200234<br>
+Sky 1	16201558	Radio receiving from 16201558<br>
+Sky 1	16202540	Radio idle from 16202540<br>
+Sky 1	24000234	Radio transmitting from 24000234<br>
+Sky 1	24001217	Radio idle from 24001217<br>
+Sky 1	24004921	Radio receiving from 24004921<br>
+Sky 1	24005908	Radio idle from 24005908<br>
+Sky 1	24007153	Radio receiving from 24007153<br>
+Sky 1	24008136	Radio idle from 24008136<br>
+Sky 1	24010762	Radio receiving from 24010762<br>
+Sky 1	24011745	Radio idle from 24011745<br>
+Sky 1	27903860	Radio transmitting from 27903860<br>
+Sky 1	27904843	Radio idle from 27904843<br>
+Sky 1	27911301	Radio receiving from 27911301<br>
+Sky 1	27912292	Radio idle from 27912292<br>
+Sky 1	27912906	Radio receiving from 27912906<br>
+Sky 1	27913898	Radio idle from 27913898<br>
+Sky 1	27916218	Radio receiving from 27916218<br>
+Sky 1	27917201	Radio idle from 27917201<br>
+Sky 1	31810293	Radio transmitting from 31810293<br>
+Sky 1	31811276	Radio idle from 31811276<br>
+Sky 1	31816073	Radio receiving from 31816073<br>
+Sky 1	31817056	Radio idle from 31817056<br>
+Sky 1	31817526	Radio receiving from 31817526<br>
+Sky 1	31818520	Radio idle from 31818520<br>
+Sky 1	31820751	Radio receiving from 31820751<br>
+Sky 1	31821734	Radio idle from 31821734<br>
+Sky 1	35722128	Radio transmitting from 35722128<br>
+Sky 1	35723111	Radio idle from 35723111<br>
+Sky 1	35728619	Radio receiving from 35728619<br>
+Sky 1	35729602	Radio idle from 35729602<br>
+Sky 1	35732716	Radio receiving from 35732716<br>
+Sky 1	35733698	Radio idle from 35733698<br>
+Sky 1	35734438	Radio receiving from 35734438<br>
+Sky 1	35735421	Radio idle from 35735421<br>
+Sky 1	39630789	Radio transmitting from 39630789<br>
+Sky 1	39631772	Radio idle from 39631772<br>
+Sky 1	39637148	Radio receiving from 39637148<br>
+Sky 1	39638131	Radio idle from 39638131<br>
+Sky 1	39641125	Radio receiving from 39641125<br>
+Sky 1	39642108	Radio idle from 39642108<br>
+Sky 1	39644703	Radio receiving from 39644703<br>
+Sky 1	39645685	Radio idle from 39645685<br>
+Sky 1	43533071	Radio transmitting from 43533071<br>
+Sky 1	43534054	Radio idle from 43534054<br>
+Sky 1	43540503	Radio receiving from 43540503<br>
+Sky 1	43541494	Radio idle from 43541494<br>
+Sky 1	43542177	Radio receiving from 43542177<br>
+Sky 1	43543167	Radio idle from 43543167<br>
+Sky 1	43543474	Radio receiving from 43543474<br>
+Sky 1	43544466	Radio idle from 43544466<br>
+Sky 1	47439230	Radio transmitting from 47439230<br>
+Sky 1	47440213	Radio idle from 47440213<br>
+Sky 1	47448659	Radio receiving from 47448659<br>
+Sky 1	47449641	Radio idle from 47449641<br>
+Sky 1	47450899	Radio receiving from 47450899<br>
+Sky 1	47451882	Radio idle from 47451882<br>
+Sky 1	47451977	Radio receiving from 47451977<br>
+Sky 1	47452960	Radio idle from 47452960<br>
+Sky 1	51341238	Radio transmitting from 51341238<br>
+Sky 1	51342221	Radio idle from 51342221<br>
+Sky 1	51347231	Radio receiving from 51347231<br>
+Sky 1	51348214	Radio idle from 51348214<br>
+Sky 1	51353230	Radio receiving from 51353230<br>
+Sky 1	51354213	Radio idle from 51354213<br>
+Sky 1	51355918	Radio receiving from 51355918<br>
+Sky 1	51356902	Radio idle from 51356902<br>
+Sky 1	55247946	Radio transmitting from 55247946<br>
+Sky 1	55248929	Radio idle from 55248929<br>
+Sky 1	55253337	Radio receiving from 55253337<br>
+Sky 1	55254327	Radio idle from 55254327<br>
+Sky 1	55256083	Radio receiving from 55256083<br>
+Sky 1	55257067	Radio idle from 55257067<br>
+Sky 1	55258755	Radio receiving from 55258755<br>
+Sky 1	55259745	Radio idle from 55259745<br>
+Sky 1	59159048	Radio transmitting from 59159048<br>
+Sky 1	59160031	Radio idle from 59160031<br>
+Sky 1	59169384	Radio receiving from 59169384<br>
+Sky 1	59169649	Radio interfered from 59169649<br>
+Sky 1	59170367	Radio idle from 59170367<br>
+Sky 1	59170367	Radio interfered from 59170367<br>
+Sky 1	59170632	Radio idle from 59170632<br>
+Sky 1	59173242	Radio receiving from 59173242<br>
+Sky 1	59174232	Radio idle from 59174232<br>
+Sky 1	63065573	Radio transmitting from 63065573<br>
+Sky 1	63066556	Radio idle from 63066556<br>
+Sky 1	63074495	Radio receiving from 63074495<br>
+Sky 1	63075154	Radio interfered from 63075154<br>
+Sky 1	63075478	Radio idle from 63075478<br>
+Sky 1	63075478	Radio interfered from 63075478<br>
+Sky 1	63076136	Radio idle from 63076136<br>
+Sky 1	63078259	Radio receiving from 63078259<br>
+Sky 1	63079241	Radio idle from 63079241<br>
+Sky 1	66971700	Radio transmitting from 66971700<br>
+Sky 1	66972683	Radio idle from 66972683<br>
+Sky 1	66979931	Radio receiving from 66979931<br>
+Sky 1	66980913	Radio idle from 66980913<br>
+Sky 1	66985323	Radio receiving from 66985323<br>
+Sky 1	66985463	Radio interfered from 66985463<br>
+Sky 1	66986306	Radio idle from 66986306<br>
+Sky 1	66986306	Radio interfered from 66986306<br>
+Sky 1	66986445	Radio idle from 66986445<br>
+Sky 1	70879080	Radio transmitting from 70879080<br>
+Sky 1	70880062	Radio idle from 70880062<br>
+Sky 1	70887847	Radio receiving from 70887847<br>
+Sky 1	70888837	Radio idle from 70888837<br>
+Sky 1	70892403	Radio receiving from 70892403<br>
+Sky 1	70892986	Radio interfered from 70892986<br>
+Sky 1	70893392	Radio idle from 70893392<br>
+Sky 1	70893392	Radio interfered from 70893392<br>
+Sky 1	70893976	Radio idle from 70893976<br>
+Sky 1	74786581	Radio transmitting from 74786581<br>
+Sky 1	74787565	Radio idle from 74787565<br>
+Sky 1	74792940	Radio receiving from 74792940<br>
+Sky 1	74793690	Radio interfered from 74793690<br>
+Sky 1	74793923	Radio idle from 74793923<br>
+Sky 1	74793923	Radio interfered from 74793923<br>
+Sky 1	74794673	Radio idle from 74794673<br>
+Sky 1	74796430	Radio receiving from 74796430<br>
+Sky 1	74797413	Radio idle from 74797413<br>
+Sky 1	78687277	Radio transmitting from 78687277<br>
+Sky 1	78688259	Radio idle from 78688259<br>
+Sky 1	78696431	Radio receiving from 78696431<br>
+Sky 1	78696606	Radio interfered from 78696606<br>
+Sky 1	78697413	Radio idle from 78697413<br>
+Sky 1	78697413	Radio interfered from 78697413<br>
+Sky 1	78697588	Radio idle from 78697588<br>
+Sky 1	78700716	Radio receiving from 78700716<br>
+Sky 1	78701698	Radio idle from 78701698<br>
+Sky 1	82593466	Radio transmitting from 82593466<br>
+Sky 1	82594448	Radio idle from 82594448<br>
+Sky 1	82602290	Radio receiving from 82602290<br>
+Sky 1	82602559	Radio interfered from 82602559<br>
+Sky 1	82603280	Radio idle from 82603280<br>
+Sky 1	82603280	Radio interfered from 82603280<br>
+Sky 1	82603542	Radio idle from 82603542<br>
+Sky 1	82605580	Radio receiving from 82605580<br>
+Sky 1	82606571	Radio idle from 82606571<br>
+Sky 1	86501333	Radio transmitting from 86501333<br>
+Sky 1	86502316	Radio idle from 86502316<br>
+Sky 1	86507662	Radio receiving from 86507662<br>
+Sky 1	86508404	Radio interfered from 86508404<br>
+Sky 1	86508644	Radio idle from 86508644<br>
+Sky 1	86508644	Radio interfered from 86508644<br>
+Sky 1	86509387	Radio idle from 86509387<br>
+Sky 1	86515170	Radio receiving from 86515170<br>
+Sky 1	86516157	Radio idle from 86516157<br>
+Sky 1	90409231	Radio transmitting from 90409231<br>
+Sky 1	90410214	Radio idle from 90410214<br>
+Sky 1	90415570	Radio receiving from 90415570<br>
+Sky 1	90416552	Radio idle from 90416552<br>
+Sky 1	90419239	Radio receiving from 90419239<br>
+Sky 1	90420222	Radio idle from 90420222<br>
+Sky 1	90420992	Radio receiving from 90420992<br>
+Sky 1	90421975	Radio idle from 90421975<br>
+Sky 1	94310476	Radio transmitting from 94310476<br>
+Sky 1	94311461	Radio idle from 94311461<br>
+Sky 1	94321230	Radio receiving from 94321230<br>
+Sky 1	94322213	Radio idle from 94322213<br>
+Sky 1	94323009	Radio receiving from 94323009<br>
+Sky 1	94323992	Radio idle from 94323992<br>
+Sky 1	94325749	Radio receiving from 94325749<br>
+Sky 1	94326733	Radio idle from 94326733<br>
+Sky 2	0	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	4317381	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	4317382	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	4319898	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	4319900	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	4319901	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	4319907	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	4319917	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	4319927	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	16190925	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	16190935	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	16190944	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	24002570	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	24002579	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	24002589	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	27906705	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	27906715	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 2	27906725	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 2	31812629	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 2	31812638	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 2	31812648	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	39633125	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	39633134	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	39633144	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	47441566	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	47441575	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	47441585	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	51344083	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	51344093	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 2	51344103	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 2	55250281	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 2	55250291	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 2	55250301	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	63067908	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	63067918	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	63067928	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	70881414	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	70881424	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	70881434	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	74789427	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	74789437	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 2	74789447	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 2	78689612	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 2	78689621	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 2	78689631	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	86503669	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	86503678	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	86503688	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	94312814	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	94312823	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	94312833	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 2	27915631	Mote Sky 2 says:<br>~Edthe node 2 has been switchedW~~Ed off  <br>
+Sky 2	27921365	Mote Sky 2 says:<br>the node 2 has been s~~Edwitched off  <br>
+Sky 2	27924775	Mote Sky 2 says:<br>Node 2 switchi`~~Edng on.<br>
+Sky 2	27929781	Mote Sky 2 says:<br>the message has been ?~~Edinoltred towards 3  <br>
+Sky 2	43544187	Mote Sky 2 says:<br>:~~Edthe node 2 has been switchedW~~Ed off  <br>
+Sky 2	43549317	Mote Sky 2 says:<br>the message has been G~~Edinoltred towards 3  <br>
+Sky 2	43553793	Mote Sky 2 says:<br>the nod~~Ede 2 has been switched off  <br>
+Sky 2	43560334	Mote Sky 2 says:<br>~~Edthe message has been inoltre~~Edd towards 3  <br>
+Sky 2	55258056	Mote Sky 2 says:<br>~~Edthe node 2 has been switchedW~~Ed off  <br>
+Sky 2	55260549	Mote Sky 2 says:<br>Node 2 switching on.<br>
+Sky 2	55268521	Mote Sky 2 says:<br>{~~Edthe message has been inoltre~~Edd towards 3  <br>
+Sky 2	55273067	Mote Sky 2 says:<br>the node 2 has~~Ed been switched off  <br>
+Sky 2	70889720	Mote Sky 2 says:<br>T~~Edthe message has been inoltre~~Edd towards 3  <br>
+Sky 2	70894940	Mote Sky 2 says:<br>the node 2 has~~Ed been switched off  <br>
+Sky 2	70902978	Mote Sky 2 says:<br>the mes}]~~Edsage has been inoltred towar&~~Edds 3  <br>
+Sky 2	70907476	Mote Sky 2 says:<br>the node 2 has been s_~~Edwitched off  <br>
+Sky 2	82601120	Mote Sky 2 says:<br>e~~EdNode 2 switching on.<br>
+Sky 2	82608578	Mote Sky 2 says:<br>the mesy~~Edsage has been inoltred towar&~~Edds 3  <br>
+Sky 2	82614312	Mote Sky 2 says:<br>the node 2 has been s_~~Edwitched off  <br>
+Sky 2	82619471	Mote Sky 2 says:<br>the message ha~~Eds been inoltred towards 3  <br>
+Sky 2	0	Radio channel -3337<br>
+Sky 2	4322792	Radio channel 26<br>
+Sky 2	4323648	Radio channel 26<br>
+Sky 2	4324176	Radio channel 26<br>
+Sky 2	16199027	Radio channel 26<br>
+Sky 2	16200266	Radio channel 26<br>
+Sky 2	24004697	Radio channel 26<br>
+Sky 2	24005939	Radio channel 26<br>
+Sky 2	27912682	Radio channel 26<br>
+Sky 2	27913929	Radio channel 26<br>
+Sky 2	31815848	Radio channel 26<br>
+Sky 2	31817088	Radio channel 26<br>
+Sky 2	35734214	Radio channel 26<br>
+Sky 2	35735452	Radio channel 26<br>
+Sky 2	39636924	Radio channel 26<br>
+Sky 2	39638162	Radio channel 26<br>
+Sky 2	43541954	Radio channel 26<br>
+Sky 2	43543199	Radio channel 26<br>
+Sky 2	47450675	Radio channel 26<br>
+Sky 2	47451914	Radio channel 26<br>
+Sky 2	51347007	Radio channel 26<br>
+Sky 2	51348246	Radio channel 26<br>
+Sky 2	55258531	Radio channel 26<br>
+Sky 2	55259777	Radio channel 26<br>
+Sky 2	59169425	Radio channel 26<br>
+Sky 2	59170663	Radio channel 26<br>
+Sky 2	63074271	Radio channel 26<br>
+Sky 2	63075510	Radio channel 26<br>
+Sky 2	66985099	Radio channel 26<br>
+Sky 2	66986338	Radio channel 26<br>
+Sky 2	70892178	Radio channel 26<br>
+Sky 2	70893424	Radio channel 26<br>
+Sky 2	74792716	Radio channel 26<br>
+Sky 2	74793954	Radio channel 26<br>
+Sky 2	78700492	Radio channel 26<br>
+Sky 2	78701730	Radio channel 26<br>
+Sky 2	82602066	Radio channel 26<br>
+Sky 2	82603312	Radio channel 26<br>
+Sky 2	86507438	Radio channel 26<br>
+Sky 2	86508676	Radio channel 26<br>
+Sky 2	90420768	Radio channel 26<br>
+Sky 2	90422006	Radio channel 26<br>
+Sky 2	94321006	Radio channel 26<br>
+Sky 2	94322244	Radio channel 26<br>
+Sky 2	0	Radio HW was turned off<br>
+Sky 2	4323648	Radio HW was turned off<br>
+Sky 2	4324176	Radio HW was turned on<br>
+Sky 2	16199027	Radio HW was turned on<br>
+Sky 2	16200266	Radio HW was turned on<br>
+Sky 2	24004697	Radio HW was turned on<br>
+Sky 2	24005939	Radio HW was turned on<br>
+Sky 2	27912682	Radio HW was turned on<br>
+Sky 2	27913929	Radio HW was turned on<br>
+Sky 2	31815848	Radio HW was turned on<br>
+Sky 2	31817088	Radio HW was turned on<br>
+Sky 2	35734214	Radio HW was turned on<br>
+Sky 2	35735452	Radio HW was turned on<br>
+Sky 2	39636924	Radio HW was turned on<br>
+Sky 2	39638162	Radio HW was turned on<br>
+Sky 2	43541954	Radio HW was turned on<br>
+Sky 2	43543199	Radio HW was turned on<br>
+Sky 2	47450675	Radio HW was turned on<br>
+Sky 2	47451914	Radio HW was turned on<br>
+Sky 2	51347007	Radio HW was turned on<br>
+Sky 2	51348246	Radio HW was turned on<br>
+Sky 2	55258531	Radio HW was turned on<br>
+Sky 2	55259777	Radio HW was turned on<br>
+Sky 2	59169425	Radio HW was turned on<br>
+Sky 2	59170663	Radio HW was turned on<br>
+Sky 2	63074271	Radio HW was turned on<br>
+Sky 2	63075510	Radio HW was turned on<br>
+Sky 2	66985099	Radio HW was turned on<br>
+Sky 2	66986338	Radio HW was turned on<br>
+Sky 2	70892178	Radio HW was turned on<br>
+Sky 2	70893424	Radio HW was turned on<br>
+Sky 2	74792716	Radio HW was turned on<br>
+Sky 2	74793954	Radio HW was turned on<br>
+Sky 2	78700492	Radio HW was turned on<br>
+Sky 2	78701730	Radio HW was turned on<br>
+Sky 2	82602066	Radio HW was turned on<br>
+Sky 2	82603312	Radio HW was turned on<br>
+Sky 2	86507438	Radio HW was turned on<br>
+Sky 2	86508676	Radio HW was turned on<br>
+Sky 2	90420768	Radio HW was turned on<br>
+Sky 2	90422006	Radio HW was turned on<br>
+Sky 2	94321006	Radio HW was turned on<br>
+Sky 2	94322244	Radio HW was turned on<br>
+Sky 2	0	Radio idle from 0<br>
+Sky 2	16188589	Radio receiving from 16188589<br>
+Sky 2	16189572	Radio idle from 16189572<br>
+Sky 2	16199251	Radio transmitting from 16199251<br>
+Sky 2	16200234	Radio idle from 16200234<br>
+Sky 2	16208144	Radio receiving from 16208144<br>
+Sky 2	16209126	Radio idle from 16209126<br>
+Sky 2	24000234	Radio receiving from 24000234<br>
+Sky 2	24001217	Radio idle from 24001217<br>
+Sky 2	24004921	Radio transmitting from 24004921<br>
+Sky 2	24005908	Radio idle from 24005908<br>
+Sky 2	24015975	Radio receiving from 24015975<br>
+Sky 2	24016957	Radio idle from 24016957<br>
+Sky 2	27903860	Radio receiving from 27903860<br>
+Sky 2	27904843	Radio idle from 27904843<br>
+Sky 2	27912906	Radio transmitting from 27912906<br>
+Sky 2	27913898	Radio idle from 27913898<br>
+Sky 2	27918929	Radio receiving from 27918929<br>
+Sky 2	27919911	Radio idle from 27919911<br>
+Sky 2	31810293	Radio receiving from 31810293<br>
+Sky 2	31811276	Radio idle from 31811276<br>
+Sky 2	31816073	Radio transmitting from 31816073<br>
+Sky 2	31817056	Radio idle from 31817056<br>
+Sky 2	31822379	Radio receiving from 31822379<br>
+Sky 2	31823371	Radio idle from 31823371<br>
+Sky 2	35722128	Radio receiving from 35722128<br>
+Sky 2	35723111	Radio idle from 35723111<br>
+Sky 2	35734438	Radio transmitting from 35734438<br>
+Sky 2	35735421	Radio idle from 35735421<br>
+Sky 2	35742446	Radio receiving from 35742446<br>
+Sky 2	35743429	Radio idle from 35743429<br>
+Sky 2	39630789	Radio receiving from 39630789<br>
+Sky 2	39631772	Radio idle from 39631772<br>
+Sky 2	39637148	Radio transmitting from 39637148<br>
+Sky 2	39638131	Radio idle from 39638131<br>
+Sky 2	39646010	Radio receiving from 39646010<br>
+Sky 2	39646993	Radio idle from 39646993<br>
+Sky 2	43533071	Radio receiving from 43533071<br>
+Sky 2	43534054	Radio idle from 43534054<br>
+Sky 2	43542177	Radio transmitting from 43542177<br>
+Sky 2	43543167	Radio idle from 43543167<br>
+Sky 2	47439230	Radio receiving from 47439230<br>
+Sky 2	47440213	Radio idle from 47440213<br>
+Sky 2	47450899	Radio transmitting from 47450899<br>
+Sky 2	47451882	Radio idle from 47451882<br>
+Sky 2	47455678	Radio receiving from 47455678<br>
+Sky 2	47456668	Radio idle from 47456668<br>
+Sky 2	51341238	Radio receiving from 51341238<br>
+Sky 2	51342221	Radio idle from 51342221<br>
+Sky 2	51347231	Radio transmitting from 51347231<br>
+Sky 2	51348214	Radio idle from 51348214<br>
+Sky 2	51351953	Radio receiving from 51351953<br>
+Sky 2	51352941	Radio idle from 51352941<br>
+Sky 2	55247946	Radio receiving from 55247946<br>
+Sky 2	55248929	Radio idle from 55248929<br>
+Sky 2	55258755	Radio transmitting from 55258755<br>
+Sky 2	55259745	Radio idle from 55259745<br>
+Sky 2	55264388	Radio receiving from 55264388<br>
+Sky 2	55265371	Radio idle from 55265371<br>
+Sky 2	59159048	Radio receiving from 59159048<br>
+Sky 2	59160031	Radio idle from 59160031<br>
+Sky 2	59169649	Radio transmitting from 59169649<br>
+Sky 2	59170632	Radio idle from 59170632<br>
+Sky 2	59176283	Radio receiving from 59176283<br>
+Sky 2	59177265	Radio idle from 59177265<br>
+Sky 2	63065573	Radio receiving from 63065573<br>
+Sky 2	63066556	Radio idle from 63066556<br>
+Sky 2	63074495	Radio transmitting from 63074495<br>
+Sky 2	63075478	Radio idle from 63075478<br>
+Sky 2	63081370	Radio receiving from 63081370<br>
+Sky 2	63082360	Radio idle from 63082360<br>
+Sky 2	66971700	Radio receiving from 66971700<br>
+Sky 2	66972683	Radio idle from 66972683<br>
+Sky 2	66985323	Radio transmitting from 66985323<br>
+Sky 2	66986306	Radio idle from 66986306<br>
+Sky 2	70879080	Radio receiving from 70879080<br>
+Sky 2	70880062	Radio idle from 70880062<br>
+Sky 2	70892403	Radio transmitting from 70892403<br>
+Sky 2	70893392	Radio idle from 70893392<br>
+Sky 2	70899672	Radio receiving from 70899672<br>
+Sky 2	70900655	Radio idle from 70900655<br>
+Sky 2	74786581	Radio receiving from 74786581<br>
+Sky 2	74787565	Radio idle from 74787565<br>
+Sky 2	74792940	Radio transmitting from 74792940<br>
+Sky 2	74793923	Radio idle from 74793923<br>
+Sky 2	74800124	Radio receiving from 74800124<br>
+Sky 2	74801107	Radio idle from 74801107<br>
+Sky 2	78687277	Radio receiving from 78687277<br>
+Sky 2	78688259	Radio idle from 78688259<br>
+Sky 2	78700716	Radio transmitting from 78700716<br>
+Sky 2	78701698	Radio idle from 78701698<br>
+Sky 2	78706221	Radio receiving from 78706221<br>
+Sky 2	78707212	Radio idle from 78707212<br>
+Sky 2	82593466	Radio receiving from 82593466<br>
+Sky 2	82594448	Radio idle from 82594448<br>
+Sky 2	82602290	Radio transmitting from 82602290<br>
+Sky 2	82603280	Radio idle from 82603280<br>
+Sky 2	82610427	Radio receiving from 82610427<br>
+Sky 2	82611409	Radio idle from 82611409<br>
+Sky 2	86501333	Radio receiving from 86501333<br>
+Sky 2	86502316	Radio idle from 86502316<br>
+Sky 2	86507662	Radio transmitting from 86507662<br>
+Sky 2	86508644	Radio idle from 86508644<br>
+Sky 2	86517806	Radio receiving from 86517806<br>
+Sky 2	86518788	Radio idle from 86518788<br>
+Sky 2	90409231	Radio receiving from 90409231<br>
+Sky 2	90410214	Radio idle from 90410214<br>
+Sky 2	90420992	Radio transmitting from 90420992<br>
+Sky 2	90421975	Radio idle from 90421975<br>
+Sky 2	94310476	Radio receiving from 94310476<br>
+Sky 2	94311461	Radio idle from 94311461<br>
+Sky 2	94321230	Radio transmitting from 94321230<br>
+Sky 2	94322213	Radio idle from 94322213<br>
+Sky 2	94331377	Radio receiving from 94331377<br>
+Sky 2	94332367	Radio idle from 94332367<br>
+Sky 3	0	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	4980601	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	4980602	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	4983118	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	4983120	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	4983121	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	4983127	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	4983137	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	4983147	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	16201583	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	16201593	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	16201603	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	24007257	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	24007267	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	24007277	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	31818405	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	31818415	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	31818424	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	39639480	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	39639490	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	39639499	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	43545027	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	43545037	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 3	43545046	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 3	47453231	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 3	47453241	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 3	47453250	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	55261094	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	55261104	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	55261114	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	63076827	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	63076837	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	63076847	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	66988152	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	66988162	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 3	66988171	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 3	70894741	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 3	70894751	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 3	70894760	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	78703047	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	78703057	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	78703066	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	86510007	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	86510017	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	86510026	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	90423821	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	90423831	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 3	90423840	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 3	94323562	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 3	94323572	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 3	94323581	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 3	31827005	Mote Sky 3 says:<br>~Edthe node 3 has been switchedH ~~Ed off  <br>
+Sky 3	31831467	Mote Sky 3 says:<br>the node 3 has been s~~Edwitched off  <br>
+Sky 3	31836425	Mote Sky 3 says:<br>the message ha~~Eds been inoltred towards 4 <br>
+Sky 3	31842361	Mote Sky 3 says:<br>t~~Edhe node 3 has been switched n~~Edoff  <br>
+Sky 3	47462352	Mote Sky 3 says:<br>L~~Edthe message has been inoltre~~Edd towards 4 <br>
+Sky 3	47466814	Mote Sky 3 says:<br>the node 3 has ~~Edbeen switched off  <br>
+Sky 3	47470036	Mote Sky 3 says:<br>node 3 s~~Edwitching on<br>
+Sky 3	47474454	Mote Sky 3 says:<br>the node 3 has bl~~Edeen switched off  <br>
+Sky 3	63085912	Mote Sky 3 says:<br>~~Edthe message has been inoltre~~Edd towards 4 <br>
+Sky 3	63090374	Mote Sky 3 says:<br>the node 3 has ~~Edbeen switched off  <br>
+Sky 3	63096901	Mote Sky 3 says:<br>the mess~~Edage has been inoltred toward~~Eds 4 <br>
+Sky 3	63101297	Mote Sky 3 says:<br>the node 3 has been swiO~~Edtched off  <br>
+Sky 3	78708772	Mote Sky 3 says:<br>Z~~Ednode 3 switching on<br>
+Sky 3	78713324	Mote Sky 3 says:<br>the nodet~~Ed 3 has been switched off  <br>
+Sky 3	78719852	Mote Sky 3 says:<br>t~~Edhe message has been inoltred8~~Ed towards 4 <br>
+Sky 3	78724283	Mote Sky 3 says:<br>the node 3 has bh~~Edeen switched off  <br>
+Sky 3	94332458	Mote Sky 3 says:<br>~~Edthe message has been inoltre~~Edd towards 4 <br>
+Sky 3	94337144	Mote Sky 3 says:<br>the node 3 has ~~Edbeen switched off  <br>
+Sky 3	94340367	Mote Sky 3 says:<br>node 3 s~~Edwitching on<br>
+Sky 3	94344798	Mote Sky 3 says:<br>the node 3 has bl~~Edeen switched off  <br>
+Sky 3	0	Radio channel -3337<br>
+Sky 3	4986012	Radio channel 26<br>
+Sky 3	4986868	Radio channel 26<br>
+Sky 3	4987396	Radio channel 26<br>
+Sky 3	16207919	Radio channel 26<br>
+Sky 3	16209158	Radio channel 26<br>
+Sky 3	24015750	Radio channel 26<br>
+Sky 3	24016989	Radio channel 26<br>
+Sky 3	27918704	Radio channel 26<br>
+Sky 3	27919943	Radio channel 26<br>
+Sky 3	31822155	Radio channel 26<br>
+Sky 3	31823402	Radio channel 26<br>
+Sky 3	35742221	Radio channel 26<br>
+Sky 3	35743460	Radio channel 26<br>
+Sky 3	39645786	Radio channel 26<br>
+Sky 3	39647024	Radio channel 26<br>
+Sky 3	47455453	Radio channel 26<br>
+Sky 3	47456700	Radio channel 26<br>
+Sky 3	51351729	Radio channel 26<br>
+Sky 3	51352973	Radio channel 26<br>
+Sky 3	55264164	Radio channel 26<br>
+Sky 3	55265402	Radio channel 26<br>
+Sky 3	59176059	Radio channel 26<br>
+Sky 3	59177297	Radio channel 26<br>
+Sky 3	63081146	Radio channel 26<br>
+Sky 3	63082392	Radio channel 26<br>
+Sky 3	70899448	Radio channel 26<br>
+Sky 3	70900687	Radio channel 26<br>
+Sky 3	74799899	Radio channel 26<br>
+Sky 3	74801139	Radio channel 26<br>
+Sky 3	78705997	Radio channel 26<br>
+Sky 3	78707245	Radio channel 26<br>
+Sky 3	82610202	Radio channel 26<br>
+Sky 3	82611441	Radio channel 26<br>
+Sky 3	86517581	Radio channel 26<br>
+Sky 3	86518820	Radio channel 26<br>
+Sky 3	94331153	Radio channel 26<br>
+Sky 3	94332399	Radio channel 26<br>
+Sky 3	0	Radio HW was turned off<br>
+Sky 3	4986868	Radio HW was turned off<br>
+Sky 3	4987396	Radio HW was turned on<br>
+Sky 3	16207919	Radio HW was turned on<br>
+Sky 3	16209158	Radio HW was turned on<br>
+Sky 3	24015750	Radio HW was turned on<br>
+Sky 3	24016989	Radio HW was turned on<br>
+Sky 3	27918704	Radio HW was turned on<br>
+Sky 3	27919943	Radio HW was turned on<br>
+Sky 3	31822155	Radio HW was turned on<br>
+Sky 3	31823402	Radio HW was turned on<br>
+Sky 3	35742221	Radio HW was turned on<br>
+Sky 3	35743460	Radio HW was turned on<br>
+Sky 3	39645786	Radio HW was turned on<br>
+Sky 3	39647024	Radio HW was turned on<br>
+Sky 3	47455453	Radio HW was turned on<br>
+Sky 3	47456700	Radio HW was turned on<br>
+Sky 3	51351729	Radio HW was turned on<br>
+Sky 3	51352973	Radio HW was turned on<br>
+Sky 3	55264164	Radio HW was turned on<br>
+Sky 3	55265402	Radio HW was turned on<br>
+Sky 3	59176059	Radio HW was turned on<br>
+Sky 3	59177297	Radio HW was turned on<br>
+Sky 3	63081146	Radio HW was turned on<br>
+Sky 3	63082392	Radio HW was turned on<br>
+Sky 3	70899448	Radio HW was turned on<br>
+Sky 3	70900687	Radio HW was turned on<br>
+Sky 3	74799899	Radio HW was turned on<br>
+Sky 3	74801139	Radio HW was turned on<br>
+Sky 3	78705997	Radio HW was turned on<br>
+Sky 3	78707245	Radio HW was turned on<br>
+Sky 3	82610202	Radio HW was turned on<br>
+Sky 3	82611441	Radio HW was turned on<br>
+Sky 3	86517581	Radio HW was turned on<br>
+Sky 3	86518820	Radio HW was turned on<br>
+Sky 3	94331153	Radio HW was turned on<br>
+Sky 3	94332399	Radio HW was turned on<br>
+Sky 3	0	Radio idle from 0<br>
+Sky 3	16199251	Radio receiving from 16199251<br>
+Sky 3	16200234	Radio idle from 16200234<br>
+Sky 3	16208144	Radio transmitting from 16208144<br>
+Sky 3	16209126	Radio idle from 16209126<br>
+Sky 3	24004921	Radio receiving from 24004921<br>
+Sky 3	24005908	Radio idle from 24005908<br>
+Sky 3	24015975	Radio transmitting from 24015975<br>
+Sky 3	24016957	Radio idle from 24016957<br>
+Sky 3	27912906	Radio receiving from 27912906<br>
+Sky 3	27913898	Radio idle from 27913898<br>
+Sky 3	27918929	Radio transmitting from 27918929<br>
+Sky 3	27919911	Radio idle from 27919911<br>
+Sky 3	31816073	Radio receiving from 31816073<br>
+Sky 3	31817056	Radio idle from 31817056<br>
+Sky 3	31822379	Radio transmitting from 31822379<br>
+Sky 3	31823371	Radio idle from 31823371<br>
+Sky 3	35734438	Radio receiving from 35734438<br>
+Sky 3	35735421	Radio idle from 35735421<br>
+Sky 3	35742446	Radio transmitting from 35742446<br>
+Sky 3	35743429	Radio idle from 35743429<br>
+Sky 3	39637148	Radio receiving from 39637148<br>
+Sky 3	39638131	Radio idle from 39638131<br>
+Sky 3	39646010	Radio transmitting from 39646010<br>
+Sky 3	39646993	Radio idle from 39646993<br>
+Sky 3	43542177	Radio receiving from 43542177<br>
+Sky 3	43543167	Radio idle from 43543167<br>
+Sky 3	47450899	Radio receiving from 47450899<br>
+Sky 3	47451882	Radio idle from 47451882<br>
+Sky 3	47455678	Radio transmitting from 47455678<br>
+Sky 3	47456668	Radio idle from 47456668<br>
+Sky 3	51347231	Radio receiving from 51347231<br>
+Sky 3	51348214	Radio idle from 51348214<br>
+Sky 3	51351953	Radio transmitting from 51351953<br>
+Sky 3	51352941	Radio idle from 51352941<br>
+Sky 3	55258755	Radio receiving from 55258755<br>
+Sky 3	55259745	Radio idle from 55259745<br>
+Sky 3	55264388	Radio transmitting from 55264388<br>
+Sky 3	55265371	Radio idle from 55265371<br>
+Sky 3	59169649	Radio receiving from 59169649<br>
+Sky 3	59170632	Radio idle from 59170632<br>
+Sky 3	59176283	Radio transmitting from 59176283<br>
+Sky 3	59177265	Radio idle from 59177265<br>
+Sky 3	63074495	Radio receiving from 63074495<br>
+Sky 3	63075478	Radio idle from 63075478<br>
+Sky 3	63081370	Radio transmitting from 63081370<br>
+Sky 3	63082360	Radio idle from 63082360<br>
+Sky 3	66985323	Radio receiving from 66985323<br>
+Sky 3	66986306	Radio idle from 66986306<br>
+Sky 3	70892403	Radio receiving from 70892403<br>
+Sky 3	70893392	Radio idle from 70893392<br>
+Sky 3	70899672	Radio transmitting from 70899672<br>
+Sky 3	70900655	Radio idle from 70900655<br>
+Sky 3	74792940	Radio receiving from 74792940<br>
+Sky 3	74793923	Radio idle from 74793923<br>
+Sky 3	74800124	Radio transmitting from 74800124<br>
+Sky 3	74801107	Radio idle from 74801107<br>
+Sky 3	78700716	Radio receiving from 78700716<br>
+Sky 3	78701698	Radio idle from 78701698<br>
+Sky 3	78706221	Radio transmitting from 78706221<br>
+Sky 3	78707212	Radio idle from 78707212<br>
+Sky 3	82602290	Radio receiving from 82602290<br>
+Sky 3	82603280	Radio idle from 82603280<br>
+Sky 3	82610427	Radio transmitting from 82610427<br>
+Sky 3	82611409	Radio idle from 82611409<br>
+Sky 3	86507662	Radio receiving from 86507662<br>
+Sky 3	86508644	Radio idle from 86508644<br>
+Sky 3	86517806	Radio transmitting from 86517806<br>
+Sky 3	86518788	Radio idle from 86518788<br>
+Sky 3	90420992	Radio receiving from 90420992<br>
+Sky 3	90421975	Radio idle from 90421975<br>
+Sky 3	94321230	Radio receiving from 94321230<br>
+Sky 3	94322213	Radio idle from 94322213<br>
+Sky 3	94331377	Radio transmitting from 94331377<br>
+Sky 3	94332367	Radio idle from 94332367<br>
+Sky 4	0	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	4429619	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	4429620	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	4432136	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	4432138	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	4432139	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	4432145	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	4432155	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	4432165	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	16210477	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	16210487	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	16210496	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	24018307	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	24018317	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	24018327	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	27921756	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	27921766	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 4	27921776	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 4	31824721	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 4	31824731	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 4	31824741	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	35745274	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	35745284	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 4	35745294	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 4	39648343	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 4	39648353	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 4	39648363	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	47458032	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	47458042	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	47458052	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	51354786	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	51354796	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 4	51354806	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 4	55266721	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 4	55266731	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 4	55266741	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	59179124	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	59179134	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 4	59179144	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 4	63083710	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 4	63083720	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 4	63083730	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	70902005	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	70902015	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	70902025	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	74802952	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	74802962	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 4	74802972	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 4	78708562	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 4	78708572	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 4	78708582	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	82613254	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	82613264	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 4	82613274	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 4	86520138	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 4	86520148	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 4	86520158	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	94333717	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	94333727	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	94333737	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 4	0	Radio channel -3337<br>
+Sky 4	4435030	Radio channel 26<br>
+Sky 4	4435886	Radio channel 26<br>
+Sky 4	4436414	Radio channel 26<br>
+Sky 4	0	Radio HW was turned off<br>
+Sky 4	4435886	Radio HW was turned off<br>
+Sky 4	4436414	Radio HW was turned on<br>
+Sky 4	0	Radio idle from 0<br>
+Sky 4	16208144	Radio receiving from 16208144<br>
+Sky 4	16209126	Radio idle from 16209126<br>
+Sky 4	24015975	Radio receiving from 24015975<br>
+Sky 4	24016957	Radio idle from 24016957<br>
+Sky 4	27918929	Radio receiving from 27918929<br>
+Sky 4	27919911	Radio idle from 27919911<br>
+Sky 4	31822379	Radio receiving from 31822379<br>
+Sky 4	31823371	Radio idle from 31823371<br>
+Sky 4	35742446	Radio receiving from 35742446<br>
+Sky 4	35743429	Radio idle from 35743429<br>
+Sky 4	39646010	Radio receiving from 39646010<br>
+Sky 4	39646993	Radio idle from 39646993<br>
+Sky 4	47455678	Radio receiving from 47455678<br>
+Sky 4	47456668	Radio idle from 47456668<br>
+Sky 4	51351953	Radio receiving from 51351953<br>
+Sky 4	51352941	Radio idle from 51352941<br>
+Sky 4	55264388	Radio receiving from 55264388<br>
+Sky 4	55265371	Radio idle from 55265371<br>
+Sky 4	59176283	Radio receiving from 59176283<br>
+Sky 4	59177265	Radio idle from 59177265<br>
+Sky 4	63081370	Radio receiving from 63081370<br>
+Sky 4	63082360	Radio idle from 63082360<br>
+Sky 4	70899672	Radio receiving from 70899672<br>
+Sky 4	70900655	Radio idle from 70900655<br>
+Sky 4	74800124	Radio receiving from 74800124<br>
+Sky 4	74801107	Radio idle from 74801107<br>
+Sky 4	78706221	Radio receiving from 78706221<br>
+Sky 4	78707212	Radio idle from 78707212<br>
+Sky 4	82610427	Radio receiving from 82610427<br>
+Sky 4	82611409	Radio idle from 82611409<br>
+Sky 4	86517806	Radio receiving from 86517806<br>
+Sky 4	86518788	Radio idle from 86518788<br>
+Sky 4	94331377	Radio receiving from 94331377<br>
+Sky 4	94332367	Radio idle from 94332367<br>
+Sky 5	0	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	4796372	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	4796373	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	4798889	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	4798891	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	4798892	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	4798898	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	4798908	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	4798918	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	16190930	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	16190939	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	16190949	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	24002574	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	24002584	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	24002594	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	31812647	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	31812657	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	31812667	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	39633129	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	39633139	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	39633149	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	43535921	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	43535931	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 5	43535941	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 5	47441570	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 5	47441580	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 5	47441590	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	55250286	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	55250296	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	55250306	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	63067913	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	63067923	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	63067933	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	66974564	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	66974574	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 5	66974584	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 5	70881419	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 5	70881429	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 5	70881439	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	78689616	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	78689626	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	78689636	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	86503673	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	86503683	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	86503693	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	90412081	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	90412091	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 5	90412101	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 5	94312818	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 5	94312828	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 5	94312838	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 5	31821314	Mote Sky 5 says:<br>~Edthe node 5 has been switchedH~~Ed off  <br>
+Sky 5	31828355	Mote Sky 5 says:<br>the node 5 has been s~~Edwitched off  <br>
+Sky 5	31833501	Mote Sky 5 says:<br>the message ha~~Eds been inoltred towards 3  <br>
+Sky 5	31839428	Mote Sky 5 says:<br>~~Edthe node 5 has been switchedH~~Ed off  <br>
+Sky 5	43546785	Mote Sky 5 says:<br>X~~Edthe message has been inoltre~~Edd towards 3  <br>
+Sky 5	43551261	Mote Sky 5 says:<br>the node 5 has4p~~Ed been switched off  <br>
+Sky 5	43554566	Mote Sky 5 says:<br>Node 5 ~~Edswitching on.<br>
+Sky 5	43560984	Mote Sky 5 says:<br>the message ha~~Eds been inoltred towards 3  <br>
+Sky 5	59169382	Mote Sky 5 says:<br>~~Edthe node 5 has been switchedH~~Ed off  <br>
+Sky 5	59176624	Mote Sky 5 says:<br>the message has been G~~Edinoltred towards 3  <br>
+Sky 5	59181176	Mote Sky 5 says:<br>the nod~~Ede 5 has been switched off  <br>
+Sky 5	59189002	Mote Sky 5 says:<br>X~~Edthe message has been inoltre~~Edd towards 3  <br>
+Sky 5	70889933	Mote Sky 5 says:<br>~~Edthe node 5 has been switchedH~~Ed off  <br>
+Sky 5	70891682	Mote Sky 5 says:<br>Node 5 switching on.<br>
+Sky 5	70901121	Mote Sky 5 says:<br>z~~Edthe message has been inoltre~~Edd towards 3  <br>
+Sky 5	70905548	Mote Sky 5 says:<br>the node 5 has4p~~Ed been switched off  <br>
+Sky 5	86513365	Mote Sky 5 says:<br>T~~Edthe message has been inoltre~~Edd towards 3  <br>
+Sky 5	86518585	Mote Sky 5 says:<br>the node 5 has4p~~Ed been switched off  <br>
+Sky 5	86525422	Mote Sky 5 says:<br>the mes}]~~Edsage has been inoltred towar&~~Edds 3  <br>
+Sky 5	86531121	Mote Sky 5 says:<br>the node 5 has been sW~~Edwitched off  <br>
+Sky 5	0	Radio channel -3337<br>
+Sky 5	4801783	Radio channel 26<br>
+Sky 5	4802639	Radio channel 26<br>
+Sky 5	4803167	Radio channel 26<br>
+Sky 5	16201333	Radio channel 26<br>
+Sky 5	16202572	Radio channel 26<br>
+Sky 5	24010537	Radio channel 26<br>
+Sky 5	24011776	Radio channel 26<br>
+Sky 5	27915994	Radio channel 26<br>
+Sky 5	27917233	Radio channel 26<br>
+Sky 5	31817303	Radio channel 26<br>
+Sky 5	31818551	Radio channel 26<br>
+Sky 5	35732492	Radio channel 26<br>
+Sky 5	35733730	Radio channel 26<br>
+Sky 5	39644479	Radio channel 26<br>
+Sky 5	39645717	Radio channel 26<br>
+Sky 5	43543250	Radio channel 26<br>
+Sky 5	43544498	Radio channel 26<br>
+Sky 5	47448434	Radio channel 26<br>
+Sky 5	47449673	Radio channel 26<br>
+Sky 5	51353006	Radio channel 26<br>
+Sky 5	51354245	Radio channel 26<br>
+Sky 5	55255860	Radio channel 26<br>
+Sky 5	55257099	Radio channel 26<br>
+Sky 5	59173018	Radio channel 26<br>
+Sky 5	59174264	Radio channel 26<br>
+Sky 5	63074930	Radio channel 26<br>
+Sky 5	63076168	Radio channel 26<br>
+Sky 5	66985238	Radio channel 26<br>
+Sky 5	66986477	Radio channel 26<br>
+Sky 5	70887623	Radio channel 26<br>
+Sky 5	70888869	Radio channel 26<br>
+Sky 5	74793466	Radio channel 26<br>
+Sky 5	74794705	Radio channel 26<br>
+Sky 5	78696207	Radio channel 26<br>
+Sky 5	78697445	Radio channel 26<br>
+Sky 5	82602334	Radio channel 26<br>
+Sky 5	82603573	Radio channel 26<br>
+Sky 5	86514947	Radio channel 26<br>
+Sky 5	86516189	Radio channel 26<br>
+Sky 5	90419015	Radio channel 26<br>
+Sky 5	90420254	Radio channel 26<br>
+Sky 5	94325525	Radio channel 26<br>
+Sky 5	94326764	Radio channel 26<br>
+Sky 5	0	Radio HW was turned off<br>
+Sky 5	4802639	Radio HW was turned off<br>
+Sky 5	4803167	Radio HW was turned on<br>
+Sky 5	16201333	Radio HW was turned on<br>
+Sky 5	16202572	Radio HW was turned on<br>
+Sky 5	24010537	Radio HW was turned on<br>
+Sky 5	24011776	Radio HW was turned on<br>
+Sky 5	27915994	Radio HW was turned on<br>
+Sky 5	27917233	Radio HW was turned on<br>
+Sky 5	31817303	Radio HW was turned on<br>
+Sky 5	31818551	Radio HW was turned on<br>
+Sky 5	35732492	Radio HW was turned on<br>
+Sky 5	35733730	Radio HW was turned on<br>
+Sky 5	39644479	Radio HW was turned on<br>
+Sky 5	39645717	Radio HW was turned on<br>
+Sky 5	43543250	Radio HW was turned on<br>
+Sky 5	43544498	Radio HW was turned on<br>
+Sky 5	47448434	Radio HW was turned on<br>
+Sky 5	47449673	Radio HW was turned on<br>
+Sky 5	51353006	Radio HW was turned on<br>
+Sky 5	51354245	Radio HW was turned on<br>
+Sky 5	55255860	Radio HW was turned on<br>
+Sky 5	55257099	Radio HW was turned on<br>
+Sky 5	59173018	Radio HW was turned on<br>
+Sky 5	59174264	Radio HW was turned on<br>
+Sky 5	63074930	Radio HW was turned on<br>
+Sky 5	63076168	Radio HW was turned on<br>
+Sky 5	66985238	Radio HW was turned on<br>
+Sky 5	66986477	Radio HW was turned on<br>
+Sky 5	70887623	Radio HW was turned on<br>
+Sky 5	70888869	Radio HW was turned on<br>
+Sky 5	74793466	Radio HW was turned on<br>
+Sky 5	74794705	Radio HW was turned on<br>
+Sky 5	78696207	Radio HW was turned on<br>
+Sky 5	78697445	Radio HW was turned on<br>
+Sky 5	82602334	Radio HW was turned on<br>
+Sky 5	82603573	Radio HW was turned on<br>
+Sky 5	86514947	Radio HW was turned on<br>
+Sky 5	86516189	Radio HW was turned on<br>
+Sky 5	90419015	Radio HW was turned on<br>
+Sky 5	90420254	Radio HW was turned on<br>
+Sky 5	94325525	Radio HW was turned on<br>
+Sky 5	94326764	Radio HW was turned on<br>
+Sky 5	0	Radio idle from 0<br>
+Sky 5	16188589	Radio receiving from 16188589<br>
+Sky 5	16189572	Radio idle from 16189572<br>
+Sky 5	16194378	Radio receiving from 16194378<br>
+Sky 5	16195361	Radio idle from 16195361<br>
+Sky 5	16201558	Radio transmitting from 16201558<br>
+Sky 5	16202540	Radio idle from 16202540<br>
+Sky 5	24000234	Radio receiving from 24000234<br>
+Sky 5	24001217	Radio idle from 24001217<br>
+Sky 5	24007153	Radio receiving from 24007153<br>
+Sky 5	24008136	Radio idle from 24008136<br>
+Sky 5	24010762	Radio transmitting from 24010762<br>
+Sky 5	24011745	Radio idle from 24011745<br>
+Sky 5	24016339	Radio receiving from 24016339<br>
+Sky 5	24017321	Radio idle from 24017321<br>
+Sky 5	27903860	Radio receiving from 27903860<br>
+Sky 5	27904843	Radio idle from 27904843<br>
+Sky 5	27911301	Radio receiving from 27911301<br>
+Sky 5	27912292	Radio idle from 27912292<br>
+Sky 5	27916218	Radio transmitting from 27916218<br>
+Sky 5	27917201	Radio idle from 27917201<br>
+Sky 5	31810293	Radio receiving from 31810293<br>
+Sky 5	31811276	Radio idle from 31811276<br>
+Sky 5	31817526	Radio transmitting from 31817526<br>
+Sky 5	31818520	Radio idle from 31818520<br>
+Sky 5	31820751	Radio receiving from 31820751<br>
+Sky 5	31821734	Radio idle from 31821734<br>
+Sky 5	31824963	Radio receiving from 31824963<br>
+Sky 5	31825946	Radio idle from 31825946<br>
+Sky 5	35722128	Radio receiving from 35722128<br>
+Sky 5	35723111	Radio idle from 35723111<br>
+Sky 5	35728619	Radio receiving from 35728619<br>
+Sky 5	35729602	Radio idle from 35729602<br>
+Sky 5	35732716	Radio transmitting from 35732716<br>
+Sky 5	35733698	Radio idle from 35733698<br>
+Sky 5	35743212	Radio receiving from 35743212<br>
+Sky 5	35744202	Radio idle from 35744202<br>
+Sky 5	39630789	Radio receiving from 39630789<br>
+Sky 5	39631772	Radio idle from 39631772<br>
+Sky 5	39641125	Radio receiving from 39641125<br>
+Sky 5	39642108	Radio idle from 39642108<br>
+Sky 5	39644703	Radio transmitting from 39644703<br>
+Sky 5	39645685	Radio idle from 39645685<br>
+Sky 5	39652740	Radio receiving from 39652740<br>
+Sky 5	39653724	Radio idle from 39653724<br>
+Sky 5	43533071	Radio receiving from 43533071<br>
+Sky 5	43534054	Radio idle from 43534054<br>
+Sky 5	43540503	Radio receiving from 43540503<br>
+Sky 5	43541494	Radio idle from 43541494<br>
+Sky 5	43543474	Radio transmitting from 43543474<br>
+Sky 5	43544466	Radio idle from 43544466<br>
+Sky 5	43555371	Radio receiving from 43555371<br>
+Sky 5	43556353	Radio idle from 43556353<br>
+Sky 5	47439230	Radio receiving from 47439230<br>
+Sky 5	47440213	Radio idle from 47440213<br>
+Sky 5	47448659	Radio transmitting from 47448659<br>
+Sky 5	47449641	Radio idle from 47449641<br>
+Sky 5	47451977	Radio receiving from 47451977<br>
+Sky 5	47452960	Radio idle from 47452960<br>
+Sky 5	47459454	Radio receiving from 47459454<br>
+Sky 5	47460436	Radio idle from 47460436<br>
+Sky 5	51341238	Radio receiving from 51341238<br>
+Sky 5	51342221	Radio idle from 51342221<br>
+Sky 5	51353230	Radio transmitting from 51353230<br>
+Sky 5	51354213	Radio idle from 51354213<br>
+Sky 5	51355918	Radio receiving from 51355918<br>
+Sky 5	51356902	Radio idle from 51356902<br>
+Sky 5	55247946	Radio receiving from 55247946<br>
+Sky 5	55248929	Radio idle from 55248929<br>
+Sky 5	55253337	Radio receiving from 55253337<br>
+Sky 5	55254327	Radio idle from 55254327<br>
+Sky 5	55256083	Radio transmitting from 55256083<br>
+Sky 5	55257067	Radio idle from 55257067<br>
+Sky 5	55265393	Radio receiving from 55265393<br>
+Sky 5	55266375	Radio idle from 55266375<br>
+Sky 5	59159048	Radio receiving from 59159048<br>
+Sky 5	59160031	Radio idle from 59160031<br>
+Sky 5	59169384	Radio receiving from 59169384<br>
+Sky 5	59170367	Radio idle from 59170367<br>
+Sky 5	59173242	Radio transmitting from 59173242<br>
+Sky 5	59174232	Radio idle from 59174232<br>
+Sky 5	59185864	Radio receiving from 59185864<br>
+Sky 5	59186847	Radio idle from 59186847<br>
+Sky 5	63065573	Radio receiving from 63065573<br>
+Sky 5	63066556	Radio idle from 63066556<br>
+Sky 5	63075154	Radio transmitting from 63075154<br>
+Sky 5	63076136	Radio idle from 63076136<br>
+Sky 5	63078259	Radio receiving from 63078259<br>
+Sky 5	63079241	Radio idle from 63079241<br>
+Sky 5	63089780	Radio receiving from 63089780<br>
+Sky 5	63090770	Radio idle from 63090770<br>
+Sky 5	66971700	Radio receiving from 66971700<br>
+Sky 5	66972683	Radio idle from 66972683<br>
+Sky 5	66979931	Radio receiving from 66979931<br>
+Sky 5	66980913	Radio idle from 66980913<br>
+Sky 5	66985463	Radio transmitting from 66985463<br>
+Sky 5	66986445	Radio idle from 66986445<br>
+Sky 5	66994518	Radio receiving from 66994518<br>
+Sky 5	66995501	Radio idle from 66995501<br>
+Sky 5	70879080	Radio receiving from 70879080<br>
+Sky 5	70880062	Radio idle from 70880062<br>
+Sky 5	70887847	Radio transmitting from 70887847<br>
+Sky 5	70888837	Radio idle from 70888837<br>
+Sky 5	70892986	Radio receiving from 70892986<br>
+Sky 5	70893976	Radio idle from 70893976<br>
+Sky 5	70895733	Radio receiving from 70895733<br>
+Sky 5	70896716	Radio idle from 70896716<br>
+Sky 5	74786581	Radio receiving from 74786581<br>
+Sky 5	74787565	Radio idle from 74787565<br>
+Sky 5	74793690	Radio transmitting from 74793690<br>
+Sky 5	74794673	Radio idle from 74794673<br>
+Sky 5	74796430	Radio receiving from 74796430<br>
+Sky 5	74797413	Radio idle from 74797413<br>
+Sky 5	78687277	Radio receiving from 78687277<br>
+Sky 5	78688259	Radio idle from 78688259<br>
+Sky 5	78696431	Radio transmitting from 78696431<br>
+Sky 5	78696606	Radio transmitting from 78696606<br>
+Sky 5	78697413	Radio interfered from 78697413<br>
+Sky 5	78697588	Radio idle from 78697588<br>
+Sky 5	78703178	Radio receiving from 78703178<br>
+Sky 5	78704168	Radio idle from 78704168<br>
+Sky 5	82593466	Radio receiving from 82593466<br>
+Sky 5	82594448	Radio idle from 82594448<br>
+Sky 5	82602559	Radio transmitting from 82602559<br>
+Sky 5	82603542	Radio idle from 82603542<br>
+Sky 5	82605580	Radio receiving from 82605580<br>
+Sky 5	82606571	Radio idle from 82606571<br>
+Sky 5	82613568	Radio receiving from 82613568<br>
+Sky 5	82614550	Radio idle from 82614550<br>
+Sky 5	86501333	Radio receiving from 86501333<br>
+Sky 5	86502316	Radio idle from 86502316<br>
+Sky 5	86508404	Radio receiving from 86508404<br>
+Sky 5	86509387	Radio idle from 86509387<br>
+Sky 5	86515170	Radio transmitting from 86515170<br>
+Sky 5	86516157	Radio idle from 86516157<br>
+Sky 5	86524456	Radio receiving from 86524456<br>
+Sky 5	86525439	Radio idle from 86525439<br>
+Sky 5	90409231	Radio receiving from 90409231<br>
+Sky 5	90410214	Radio idle from 90410214<br>
+Sky 5	90415570	Radio receiving from 90415570<br>
+Sky 5	90416552	Radio idle from 90416552<br>
+Sky 5	90419239	Radio transmitting from 90419239<br>
+Sky 5	90420222	Radio idle from 90420222<br>
+Sky 5	90425253	Radio receiving from 90425253<br>
+Sky 5	90426243	Radio idle from 90426243<br>
+Sky 5	94310476	Radio receiving from 94310476<br>
+Sky 5	94311461	Radio idle from 94311461<br>
+Sky 5	94323009	Radio receiving from 94323009<br>
+Sky 5	94323992	Radio idle from 94323992<br>
+Sky 5	94325749	Radio transmitting from 94325749<br>
+Sky 5	94326733	Radio idle from 94326733<br>
+Sky 5	94336102	Radio receiving from 94336102<br>
+Sky 5	94337084	Radio idle from 94337084<br>
+Sky 6	0	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	4331917	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	4331918	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	4334434	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	4334436	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	4334437	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	4334443	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	4334453	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	4334463	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	24013113	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	24013123	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	24013132	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	27919062	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	27919072	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 6	27919082	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 6	31819874	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 6	31819883	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 6	31819893	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	35735538	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	35735548	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 6	35735558	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 6	39647039	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 6	39647049	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 6	39647058	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	47450995	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	47451004	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	47451014	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	51356366	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	51356376	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 6	51356385	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 6	55258421	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 6	55258430	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 6	55258440	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	59176251	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	59176261	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 6	59176271	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 6	63077490	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 6	63077499	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 6	63077509	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	70890191	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	70890201	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	70890210	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	74796549	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	74796559	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 6	74796568	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 6	78698767	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 6	78698776	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 6	78698786	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	82605382	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	82605392	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 6	82605402	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 6	86517524	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 6	86517534	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 6	86517544	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	94328087	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	94328096	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	94328106	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 6	35745689	Mote Sky 6 says:<br>~Edthe node 6 has been switchedH~~Ed off  <br>
+Sky 6	35747342	Mote Sky 6 says:<br>node 6 switching on<br>
+Sky 6	35753477	Mote Sky 6 says:<br>ti~~Edhe node 6 has been switched ~~Edoff  <br>
+Sky 6	35755130	Mote Sky 6 says:<br>node 6 switching on<br>
+Sky 6	35761572	Mote Sky 6 says:<br>th~~Ede message has been inoltred ~~Edtowards 7 <br>
+Sky 6	51361830	Mote Sky 6 says:<br>z~~Edthe node 6 has been switchedH~~Ed off  <br>
+Sky 6	51368060	Mote Sky 6 says:<br>the message has been G~~Edinoltred towards 7 <br>
+Sky 6	51372641	Mote Sky 6 says:<br>the node~~Ed 6 has been switched off  <br>
+Sky 6	51375819	Mote Sky 6 says:<br>nGy~~Edode 6 switching on<br>
+Sky 6	63085249	Mote Sky 6 says:<br>G~~Edthe node 6 has been switchedH~~Ed off  <br>
+Sky 6	63087671	Mote Sky 6 says:<br>node 6 switching on<br>
+Sky 6	63096405	Mote Sky 6 says:<br>ti~~Edhe message has been inoltred8~~Ed towards 7 <br>
+Sky 6	63100823	Mote Sky 6 says:<br>the node 6 has b~~Edeen switched off  <br>
+Sky 6	78707871	Mote Sky 6 says:<br>~~Edthe message has been inoltre~~Edd towards 7 <br>
+Sky 6	78712333	Mote Sky 6 says:<br>the node 6 has v~~Edbeen switched off  <br>
+Sky 6	78715569	Mote Sky 6 says:<br>node 6 sc~~Edwitching on<br>
+Sky 6	78719986	Mote Sky 6 says:<br>the node 6 has b~~Edeen switched off  <br>
+Sky 6	90427542	Mote Sky 6 says:<br>~~Ednode 6 switching on<br>
+Sky 6	90434173	Mote Sky 6 says:<br>the mess|~~Edage has been inoltred toward~~Eds 7 <br>
+Sky 6	90438635	Mote Sky 6 says:<br>the node 6 has been swi	~~Edtched off  <br>
+Sky 6	90443578	Mote Sky 6 says:<br>the message has Q~~Edbeen inoltred towards 7 <br>
+Sky 6	0	Radio channel -3337<br>
+Sky 6	4337328	Radio channel 26<br>
+Sky 6	4338184	Radio channel 26<br>
+Sky 6	4338712	Radio channel 26<br>
+Sky 6	24016114	Radio channel 26<br>
+Sky 6	24017353	Radio channel 26<br>
+Sky 6	31824739	Radio channel 26<br>
+Sky 6	31825977	Radio channel 26<br>
+Sky 6	35742988	Radio channel 26<br>
+Sky 6	35744233	Radio channel 26<br>
+Sky 6	39652517	Radio channel 26<br>
+Sky 6	39653756	Radio channel 26<br>
+Sky 6	43555146	Radio channel 26<br>
+Sky 6	43556385	Radio channel 26<br>
+Sky 6	47459230	Radio channel 26<br>
+Sky 6	47460468	Radio channel 26<br>
+Sky 6	55265168	Radio channel 26<br>
+Sky 6	55266407	Radio channel 26<br>
+Sky 6	59185639	Radio channel 26<br>
+Sky 6	59186878	Radio channel 26<br>
+Sky 6	63089556	Radio channel 26<br>
+Sky 6	63090802	Radio channel 26<br>
+Sky 6	66994294	Radio channel 26<br>
+Sky 6	66995533	Radio channel 26<br>
+Sky 6	70895509	Radio channel 26<br>
+Sky 6	70896748	Radio channel 26<br>
+Sky 6	78702954	Radio channel 26<br>
+Sky 6	78704199	Radio channel 26<br>
+Sky 6	82613343	Radio channel 26<br>
+Sky 6	82614582	Radio channel 26<br>
+Sky 6	86524232	Radio channel 26<br>
+Sky 6	86525471	Radio channel 26<br>
+Sky 6	90425028	Radio channel 26<br>
+Sky 6	90426274	Radio channel 26<br>
+Sky 6	94335877	Radio channel 26<br>
+Sky 6	94337116	Radio channel 26<br>
+Sky 6	0	Radio HW was turned off<br>
+Sky 6	4338184	Radio HW was turned off<br>
+Sky 6	4338712	Radio HW was turned on<br>
+Sky 6	24016114	Radio HW was turned on<br>
+Sky 6	24017353	Radio HW was turned on<br>
+Sky 6	31824739	Radio HW was turned on<br>
+Sky 6	31825977	Radio HW was turned on<br>
+Sky 6	35742988	Radio HW was turned on<br>
+Sky 6	35744233	Radio HW was turned on<br>
+Sky 6	39652517	Radio HW was turned on<br>
+Sky 6	39653756	Radio HW was turned on<br>
+Sky 6	43555146	Radio HW was turned on<br>
+Sky 6	43556385	Radio HW was turned on<br>
+Sky 6	47459230	Radio HW was turned on<br>
+Sky 6	47460468	Radio HW was turned on<br>
+Sky 6	55265168	Radio HW was turned on<br>
+Sky 6	55266407	Radio HW was turned on<br>
+Sky 6	59185639	Radio HW was turned on<br>
+Sky 6	59186878	Radio HW was turned on<br>
+Sky 6	63089556	Radio HW was turned on<br>
+Sky 6	63090802	Radio HW was turned on<br>
+Sky 6	66994294	Radio HW was turned on<br>
+Sky 6	66995533	Radio HW was turned on<br>
+Sky 6	70895509	Radio HW was turned on<br>
+Sky 6	70896748	Radio HW was turned on<br>
+Sky 6	78702954	Radio HW was turned on<br>
+Sky 6	78704199	Radio HW was turned on<br>
+Sky 6	82613343	Radio HW was turned on<br>
+Sky 6	82614582	Radio HW was turned on<br>
+Sky 6	86524232	Radio HW was turned on<br>
+Sky 6	86525471	Radio HW was turned on<br>
+Sky 6	90425028	Radio HW was turned on<br>
+Sky 6	90426274	Radio HW was turned on<br>
+Sky 6	94335877	Radio HW was turned on<br>
+Sky 6	94337116	Radio HW was turned on<br>
+Sky 6	0	Radio idle from 0<br>
+Sky 6	16201558	Radio receiving from 16201558<br>
+Sky 6	16202217	Radio interfered from 16202217<br>
+Sky 6	16202540	Radio idle from 16202540<br>
+Sky 6	16202540	Radio interfered from 16202540<br>
+Sky 6	16203200	Radio idle from 16203200<br>
+Sky 6	24010762	Radio receiving from 24010762<br>
+Sky 6	24011745	Radio idle from 24011745<br>
+Sky 6	24016339	Radio transmitting from 24016339<br>
+Sky 6	24017321	Radio idle from 24017321<br>
+Sky 6	24020455	Radio receiving from 24020455<br>
+Sky 6	24021437	Radio idle from 24021437<br>
+Sky 6	27916218	Radio receiving from 27916218<br>
+Sky 6	27917201	Radio idle from 27917201<br>
+Sky 6	27925118	Radio receiving from 27925118<br>
+Sky 6	27926101	Radio idle from 27926101<br>
+Sky 6	31817526	Radio receiving from 31817526<br>
+Sky 6	31818520	Radio idle from 31818520<br>
+Sky 6	31824963	Radio transmitting from 31824963<br>
+Sky 6	31825946	Radio idle from 31825946<br>
+Sky 6	31829733	Radio receiving from 31829733<br>
+Sky 6	31830723	Radio idle from 31830723<br>
+Sky 6	35732716	Radio receiving from 35732716<br>
+Sky 6	35733698	Radio idle from 35733698<br>
+Sky 6	35738808	Radio receiving from 35738808<br>
+Sky 6	35739791	Radio idle from 35739791<br>
+Sky 6	35743212	Radio transmitting from 35743212<br>
+Sky 6	35744202	Radio idle from 35744202<br>
+Sky 6	39644703	Radio receiving from 39644703<br>
+Sky 6	39645685	Radio idle from 39645685<br>
+Sky 6	39650002	Radio receiving from 39650002<br>
+Sky 6	39650984	Radio idle from 39650984<br>
+Sky 6	39652740	Radio transmitting from 39652740<br>
+Sky 6	39653724	Radio idle from 39653724<br>
+Sky 6	43543474	Radio receiving from 43543474<br>
+Sky 6	43544466	Radio idle from 43544466<br>
+Sky 6	43555371	Radio transmitting from 43555371<br>
+Sky 6	43556353	Radio idle from 43556353<br>
+Sky 6	47448659	Radio receiving from 47448659<br>
+Sky 6	47449641	Radio idle from 47449641<br>
+Sky 6	47459454	Radio transmitting from 47459454<br>
+Sky 6	47460436	Radio idle from 47460436<br>
+Sky 6	47462513	Radio receiving from 47462513<br>
+Sky 6	47463503	Radio idle from 47463503<br>
+Sky 6	51353230	Radio receiving from 51353230<br>
+Sky 6	51354213	Radio idle from 51354213<br>
+Sky 6	51365608	Radio receiving from 51365608<br>
+Sky 6	51366591	Radio idle from 51366591<br>
+Sky 6	55256083	Radio receiving from 55256083<br>
+Sky 6	55257067	Radio idle from 55257067<br>
+Sky 6	55265393	Radio transmitting from 55265393<br>
+Sky 6	55266375	Radio idle from 55266375<br>
+Sky 6	55268132	Radio receiving from 55268132<br>
+Sky 6	55269115	Radio idle from 55269115<br>
+Sky 6	59173242	Radio receiving from 59173242<br>
+Sky 6	59174232	Radio idle from 59174232<br>
+Sky 6	59174996	Radio receiving from 59174996<br>
+Sky 6	59175978	Radio idle from 59175978<br>
+Sky 6	59185864	Radio transmitting from 59185864<br>
+Sky 6	59186847	Radio idle from 59186847<br>
+Sky 6	63075154	Radio receiving from 63075154<br>
+Sky 6	63076136	Radio idle from 63076136<br>
+Sky 6	63086892	Radio receiving from 63086892<br>
+Sky 6	63087880	Radio idle from 63087880<br>
+Sky 6	63089780	Radio transmitting from 63089780<br>
+Sky 6	63090770	Radio idle from 63090770<br>
+Sky 6	66985463	Radio receiving from 66985463<br>
+Sky 6	66986445	Radio idle from 66986445<br>
+Sky 6	66994518	Radio transmitting from 66994518<br>
+Sky 6	66995501	Radio idle from 66995501<br>
+Sky 6	70887847	Radio receiving from 70887847<br>
+Sky 6	70888837	Radio idle from 70888837<br>
+Sky 6	70895733	Radio transmitting from 70895733<br>
+Sky 6	70896716	Radio idle from 70896716<br>
+Sky 6	70899414	Radio receiving from 70899414<br>
+Sky 6	70900397	Radio idle from 70900397<br>
+Sky 6	74793690	Radio receiving from 74793690<br>
+Sky 6	74794673	Radio idle from 74794673<br>
+Sky 6	74806313	Radio receiving from 74806313<br>
+Sky 6	74807295	Radio idle from 74807295<br>
+Sky 6	78696431	Radio receiving from 78696431<br>
+Sky 6	78697413	Radio idle from 78697413<br>
+Sky 6	78703178	Radio transmitting from 78703178<br>
+Sky 6	78703362	Radio transmitting from 78703362<br>
+Sky 6	78704168	Radio interfered from 78704168<br>
+Sky 6	78704352	Radio idle from 78704352<br>
+Sky 6	82602559	Radio receiving from 82602559<br>
+Sky 6	82603542	Radio idle from 82603542<br>
+Sky 6	82613568	Radio transmitting from 82613568<br>
+Sky 6	82614550	Radio idle from 82614550<br>
+Sky 6	82616707	Radio receiving from 82616707<br>
+Sky 6	82617690	Radio idle from 82617690<br>
+Sky 6	86515170	Radio receiving from 86515170<br>
+Sky 6	86516157	Radio idle from 86516157<br>
+Sky 6	86519112	Radio receiving from 86519112<br>
+Sky 6	86520095	Radio idle from 86520095<br>
+Sky 6	86524456	Radio transmitting from 86524456<br>
+Sky 6	86525439	Radio idle from 86525439<br>
+Sky 6	90419239	Radio receiving from 90419239<br>
+Sky 6	90420222	Radio idle from 90420222<br>
+Sky 6	90425253	Radio transmitting from 90425253<br>
+Sky 6	90426243	Radio idle from 90426243<br>
+Sky 6	94325749	Radio receiving from 94325749<br>
+Sky 6	94326733	Radio idle from 94326733<br>
+Sky 6	94332319	Radio receiving from 94332319<br>
+Sky 6	94333313	Radio idle from 94333313<br>
+Sky 6	94336102	Radio transmitting from 94336102<br>
+Sky 6	94337084	Radio idle from 94337084<br>
+Sky 7	0	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	4483031	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	4483032	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	4485548	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	4485550	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	4485551	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	4485557	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	4485567	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	4485577	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	24018677	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	24018687	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	24018696	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	31827483	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	31827492	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	31827502	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	35746063	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	35746073	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 7	35746083	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 7	39655079	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 7	39655089	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 7	39655099	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	43558469	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	43558479	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 7	43558489	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 7	47461791	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 7	47461801	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 7	47461811	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	55267744	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	55267754	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	55267764	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	59188708	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	59188718	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 7	59188728	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 7	63092125	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 7	63092135	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 7	63092145	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	66997617	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	66997627	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 7	66997636	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 7	70898071	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 7	70898081	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 7	70898091	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	78705523	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	78705533	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	78705543	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	82616411	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	82616421	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 7	82616431	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 7	86526794	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 7	86526804	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 7	86526814	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	90428359	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	90428369	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 7	90428378	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 7	94338439	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 7	94338449	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 7	94338459	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 7	43563888	Mote Sky 7 says:<br>~Edthe node 7 has been switchedWh~~Ed off  <br>
+Sky 7	43568350	Mote Sky 7 says:<br>the node 7 has been s~~Edwitched off  <br>
+Sky 7	43571572	Mote Sky 7 says:<br>node 7 switchic~~Edng on<br>
+Sky 7	43576034	Mote Sky 7 says:<br>the node 7 has been swL~~Editched off  <br>
+Sky 7	43579156	Mote Sky 7 says:<br>node 7 switchin~~Edg on<br>
+Sky 7	67003022	Mote Sky 7 says:<br>[~~Edthe node 7 has been switchedWh~~Ed off  <br>
+Sky 7	67007498	Mote Sky 7 says:<br>the node 7 has been s~~Edwitched off  <br>
+Sky 7	67010720	Mote Sky 7 says:<br>node 7 switchic~~Edng on<br>
+Sky 7	67015182	Mote Sky 7 says:<br>the node 7 has been swL~~Editched off  <br>
+Sky 7	67018290	Mote Sky 7 says:<br>node 7 switchin~~Edg on<br>
+Sky 7	90433777	Mote Sky 7 says:<br>[~~Edthe node 7 has been switchedWh~~Ed off  <br>
+Sky 7	90438239	Mote Sky 7 says:<br>the node 7 has been s~~Edwitched off  <br>
+Sky 7	90441462	Mote Sky 7 says:<br>node 7 switchic~~Edng on<br>
+Sky 7	90445938	Mote Sky 7 says:<br>the node 7 has been swL~~Editched off  <br>
+Sky 7	90449045	Mote Sky 7 says:<br>node 7 switchin~~Edg on<br>
+Sky 7	0	Radio channel -3337<br>
+Sky 7	4488442	Radio channel 26<br>
+Sky 7	4489298	Radio channel 26<br>
+Sky 7	4489826	Radio channel 26<br>
+Sky 7	0	Radio HW was turned off<br>
+Sky 7	4489298	Radio HW was turned off<br>
+Sky 7	4489826	Radio HW was turned on<br>
+Sky 7	0	Radio idle from 0<br>
+Sky 7	24016339	Radio receiving from 24016339<br>
+Sky 7	24017321	Radio idle from 24017321<br>
+Sky 7	31824963	Radio receiving from 31824963<br>
+Sky 7	31825946	Radio idle from 31825946<br>
+Sky 7	35743212	Radio receiving from 35743212<br>
+Sky 7	35744202	Radio idle from 35744202<br>
+Sky 7	39652740	Radio receiving from 39652740<br>
+Sky 7	39653724	Radio idle from 39653724<br>
+Sky 7	43555371	Radio receiving from 43555371<br>
+Sky 7	43556353	Radio idle from 43556353<br>
+Sky 7	47459454	Radio receiving from 47459454<br>
+Sky 7	47460436	Radio idle from 47460436<br>
+Sky 7	55265393	Radio receiving from 55265393<br>
+Sky 7	55266375	Radio idle from 55266375<br>
+Sky 7	59185864	Radio receiving from 59185864<br>
+Sky 7	59186847	Radio idle from 59186847<br>
+Sky 7	63089780	Radio receiving from 63089780<br>
+Sky 7	63090770	Radio idle from 63090770<br>
+Sky 7	66994518	Radio receiving from 66994518<br>
+Sky 7	66995501	Radio idle from 66995501<br>
+Sky 7	70895733	Radio receiving from 70895733<br>
+Sky 7	70896716	Radio idle from 70896716<br>
+Sky 7	78703178	Radio receiving from 78703178<br>
+Sky 7	78704168	Radio idle from 78704168<br>
+Sky 7	82613568	Radio receiving from 82613568<br>
+Sky 7	82614550	Radio idle from 82614550<br>
+Sky 7	86524456	Radio receiving from 86524456<br>
+Sky 7	86525439	Radio idle from 86525439<br>
+Sky 7	90425253	Radio receiving from 90425253<br>
+Sky 7	90426243	Radio idle from 90426243<br>
+Sky 7	94336102	Radio receiving from 94336102<br>
+Sky 7	94337084	Radio idle from 94337084<br>
+Sky 8	0	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	4154030	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	4154031	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	4156547	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	4156549	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	4156550	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	4156556	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	4156566	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	4156576	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	16190934	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	16190944	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	16190954	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	24002579	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	24002589	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	24002598	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	27906746	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	27906755	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 8	27906765	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 8	31812638	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 8	31812648	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 8	31812658	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	39633134	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	39633144	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	39633153	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	47441575	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	47441585	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	47441594	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	51344123	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	51344133	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 8	51344143	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 8	55250307	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 8	55250316	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 8	55250326	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	63067920	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	63067929	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	63067939	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	70881424	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	70881434	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	70881443	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	74789483	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	74789493	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 8	74789503	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 8	78689621	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 8	78689631	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 8	78689640	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	86503678	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	86503688	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	86503697	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	94312823	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	94312833	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	94312842	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 8	27915664	Mote Sky 8 says:<br>~Edthe node 8 has been switchedv~~Ed off  <br>
+Sky 8	27921503	Mote Sky 8 says:<br>the node 8 has been s~~Edwitched off  <br>
+Sky 8	27924822	Mote Sky 8 says:<br>Node 8 switchi~~Edng on.<br>
+Sky 8	27931205	Mote Sky 8 says:<br>the message has been ?~~Edinoltred towards 9  <br>
+Sky 8	43544371	Mote Sky 8 says:<br>8~~Edthe node 8 has been switchedv~~Ed off  <br>
+Sky 8	43550719	Mote Sky 8 says:<br>the message has been G~~Edinoltred towards 9  <br>
+Sky 8	43555181	Mote Sky 8 says:<br>the nod~~Ede 8 has been switched off  <br>
+Sky 8	43561736	Mote Sky 8 says:<br>R~~Edthe message has been inoltre~~Edd towards 9  <br>
+Sky 8	55260283	Mote Sky 8 says:<br>~~Edthe node 8 has been switchedv~~Ed off  <br>
+Sky 8	55262018	Mote Sky 8 says:<br>Node 8 switching on.<br>
+Sky 8	55268726	Mote Sky 8 says:<br>C~~Edthe message has been inoltre~~Edd towards 9  <br>
+Sky 8	55274447	Mote Sky 8 says:<br>the node 8 hasbP~~Ed been switched off  <br>
+Sky 8	70891005	Mote Sky 8 says:<br>T~~Edthe message has been inoltre~~Edd towards 9  <br>
+Sky 8	70896330	Mote Sky 8 says:<br>the node 8 hasbP~~Ed been switched off  <br>
+Sky 8	70904474	Mote Sky 8 says:<br>the mes}]~~Edsage has been inoltred towar&~~Edds 9  <br>
+Sky 8	70906292	Mote Sky 8 says:<br>the node 8 has been s<br>
+Sky 8	70908866	Mote Sky 8 says:<br>~~Edwitched off  <br>
+Sky 8	82601130	Mote Sky 8 says:<br>e~~EdNode 8 switching on.<br>
+Sky 8	82609980	Mote Sky 8 says:<br>the mesT3~~Edsage has been inoltred towar&~~Edds 9  <br>
+Sky 8	82611798	Mote Sky 8 says:<br>the node 8 has been s<br>
+Sky 8	82614442	Mote Sky 8 says:<br>~~Edwitched off  <br>
+Sky 8	82620755	Mote Sky 8 says:<br>the message ha~~Eds been inoltred towards 9  <br>
+Sky 8	0	Radio channel -3337<br>
+Sky 8	4159441	Radio channel 26<br>
+Sky 8	4160297	Radio channel 26<br>
+Sky 8	4160825	Radio channel 26<br>
+Sky 8	16194154	Radio channel 26<br>
+Sky 8	16195392	Radio channel 26<br>
+Sky 8	24006929	Radio channel 26<br>
+Sky 8	24008168	Radio channel 26<br>
+Sky 8	27911077	Radio channel 26<br>
+Sky 8	27912323	Radio channel 26<br>
+Sky 8	31820527	Radio channel 26<br>
+Sky 8	31821766	Radio channel 26<br>
+Sky 8	35728394	Radio channel 26<br>
+Sky 8	35729633	Radio channel 26<br>
+Sky 8	39640901	Radio channel 26<br>
+Sky 8	39642139	Radio channel 26<br>
+Sky 8	43540280	Radio channel 26<br>
+Sky 8	43541525	Radio channel 26<br>
+Sky 8	47451753	Radio channel 26<br>
+Sky 8	47452992	Radio channel 26<br>
+Sky 8	51355694	Radio channel 26<br>
+Sky 8	51356934	Radio channel 26<br>
+Sky 8	55253114	Radio channel 26<br>
+Sky 8	55254359	Radio channel 26<br>
+Sky 8	59169160	Radio channel 26<br>
+Sky 8	59170399	Radio channel 26<br>
+Sky 8	63078034	Radio channel 26<br>
+Sky 8	63079273	Radio channel 26<br>
+Sky 8	66979707	Radio channel 26<br>
+Sky 8	66980945	Radio channel 26<br>
+Sky 8	70892762	Radio channel 26<br>
+Sky 8	70894008	Radio channel 26<br>
+Sky 8	74796206	Radio channel 26<br>
+Sky 8	74797445	Radio channel 26<br>
+Sky 8	78696382	Radio channel 26<br>
+Sky 8	78697620	Radio channel 26<br>
+Sky 8	82605356	Radio channel 26<br>
+Sky 8	82606603	Radio channel 26<br>
+Sky 8	86508180	Radio channel 26<br>
+Sky 8	86509418	Radio channel 26<br>
+Sky 8	90415345	Radio channel 26<br>
+Sky 8	90416584	Radio channel 26<br>
+Sky 8	94322785	Radio channel 26<br>
+Sky 8	94324024	Radio channel 26<br>
+Sky 8	0	Radio HW was turned off<br>
+Sky 8	4160297	Radio HW was turned off<br>
+Sky 8	4160825	Radio HW was turned on<br>
+Sky 8	16194154	Radio HW was turned on<br>
+Sky 8	16195392	Radio HW was turned on<br>
+Sky 8	24006929	Radio HW was turned on<br>
+Sky 8	24008168	Radio HW was turned on<br>
+Sky 8	27911077	Radio HW was turned on<br>
+Sky 8	27912323	Radio HW was turned on<br>
+Sky 8	31820527	Radio HW was turned on<br>
+Sky 8	31821766	Radio HW was turned on<br>
+Sky 8	35728394	Radio HW was turned on<br>
+Sky 8	35729633	Radio HW was turned on<br>
+Sky 8	39640901	Radio HW was turned on<br>
+Sky 8	39642139	Radio HW was turned on<br>
+Sky 8	43540280	Radio HW was turned on<br>
+Sky 8	43541525	Radio HW was turned on<br>
+Sky 8	47451753	Radio HW was turned on<br>
+Sky 8	47452992	Radio HW was turned on<br>
+Sky 8	51355694	Radio HW was turned on<br>
+Sky 8	51356934	Radio HW was turned on<br>
+Sky 8	55253114	Radio HW was turned on<br>
+Sky 8	55254359	Radio HW was turned on<br>
+Sky 8	59169160	Radio HW was turned on<br>
+Sky 8	59170399	Radio HW was turned on<br>
+Sky 8	63078034	Radio HW was turned on<br>
+Sky 8	63079273	Radio HW was turned on<br>
+Sky 8	66979707	Radio HW was turned on<br>
+Sky 8	66980945	Radio HW was turned on<br>
+Sky 8	70892762	Radio HW was turned on<br>
+Sky 8	70894008	Radio HW was turned on<br>
+Sky 8	74796206	Radio HW was turned on<br>
+Sky 8	74797445	Radio HW was turned on<br>
+Sky 8	78696382	Radio HW was turned on<br>
+Sky 8	78697620	Radio HW was turned on<br>
+Sky 8	82605356	Radio HW was turned on<br>
+Sky 8	82606603	Radio HW was turned on<br>
+Sky 8	86508180	Radio HW was turned on<br>
+Sky 8	86509418	Radio HW was turned on<br>
+Sky 8	90415345	Radio HW was turned on<br>
+Sky 8	90416584	Radio HW was turned on<br>
+Sky 8	94322785	Radio HW was turned on<br>
+Sky 8	94324024	Radio HW was turned on<br>
+Sky 8	0	Radio idle from 0<br>
+Sky 8	16188589	Radio receiving from 16188589<br>
+Sky 8	16189572	Radio idle from 16189572<br>
+Sky 8	16194378	Radio transmitting from 16194378<br>
+Sky 8	16195361	Radio idle from 16195361<br>
+Sky 8	16201558	Radio receiving from 16201558<br>
+Sky 8	16202217	Radio interfered from 16202217<br>
+Sky 8	16202540	Radio idle from 16202540<br>
+Sky 8	16202540	Radio interfered from 16202540<br>
+Sky 8	16203200	Radio idle from 16203200<br>
+Sky 8	24000234	Radio receiving from 24000234<br>
+Sky 8	24001217	Radio idle from 24001217<br>
+Sky 8	24007153	Radio transmitting from 24007153<br>
+Sky 8	24008136	Radio idle from 24008136<br>
+Sky 8	24010762	Radio receiving from 24010762<br>
+Sky 8	24011745	Radio idle from 24011745<br>
+Sky 8	24020455	Radio receiving from 24020455<br>
+Sky 8	24021437	Radio idle from 24021437<br>
+Sky 8	27903860	Radio receiving from 27903860<br>
+Sky 8	27904843	Radio idle from 27904843<br>
+Sky 8	27911301	Radio transmitting from 27911301<br>
+Sky 8	27912292	Radio idle from 27912292<br>
+Sky 8	27916218	Radio receiving from 27916218<br>
+Sky 8	27917201	Radio idle from 27917201<br>
+Sky 8	27925118	Radio receiving from 27925118<br>
+Sky 8	27926101	Radio idle from 27926101<br>
+Sky 8	31810293	Radio receiving from 31810293<br>
+Sky 8	31811276	Radio idle from 31811276<br>
+Sky 8	31817526	Radio receiving from 31817526<br>
+Sky 8	31818520	Radio idle from 31818520<br>
+Sky 8	31820751	Radio transmitting from 31820751<br>
+Sky 8	31821734	Radio idle from 31821734<br>
+Sky 8	31829733	Radio receiving from 31829733<br>
+Sky 8	31830723	Radio idle from 31830723<br>
+Sky 8	35722128	Radio receiving from 35722128<br>
+Sky 8	35723111	Radio idle from 35723111<br>
+Sky 8	35728619	Radio transmitting from 35728619<br>
+Sky 8	35729602	Radio idle from 35729602<br>
+Sky 8	35732716	Radio receiving from 35732716<br>
+Sky 8	35733698	Radio idle from 35733698<br>
+Sky 8	35738808	Radio receiving from 35738808<br>
+Sky 8	35739791	Radio idle from 35739791<br>
+Sky 8	39630789	Radio receiving from 39630789<br>
+Sky 8	39631772	Radio idle from 39631772<br>
+Sky 8	39641125	Radio transmitting from 39641125<br>
+Sky 8	39642108	Radio idle from 39642108<br>
+Sky 8	39644703	Radio receiving from 39644703<br>
+Sky 8	39645685	Radio idle from 39645685<br>
+Sky 8	39650002	Radio receiving from 39650002<br>
+Sky 8	39650984	Radio idle from 39650984<br>
+Sky 8	43533071	Radio receiving from 43533071<br>
+Sky 8	43534054	Radio idle from 43534054<br>
+Sky 8	43540503	Radio transmitting from 43540503<br>
+Sky 8	43541494	Radio idle from 43541494<br>
+Sky 8	43543474	Radio receiving from 43543474<br>
+Sky 8	43544466	Radio idle from 43544466<br>
+Sky 8	47439230	Radio receiving from 47439230<br>
+Sky 8	47440213	Radio idle from 47440213<br>
+Sky 8	47448659	Radio receiving from 47448659<br>
+Sky 8	47449641	Radio idle from 47449641<br>
+Sky 8	47451977	Radio transmitting from 47451977<br>
+Sky 8	47452960	Radio idle from 47452960<br>
+Sky 8	47462513	Radio receiving from 47462513<br>
+Sky 8	47463503	Radio idle from 47463503<br>
+Sky 8	51341238	Radio receiving from 51341238<br>
+Sky 8	51342221	Radio idle from 51342221<br>
+Sky 8	51353230	Radio receiving from 51353230<br>
+Sky 8	51354213	Radio idle from 51354213<br>
+Sky 8	51355918	Radio transmitting from 51355918<br>
+Sky 8	51356902	Radio idle from 51356902<br>
+Sky 8	51365608	Radio receiving from 51365608<br>
+Sky 8	51366591	Radio idle from 51366591<br>
+Sky 8	55247946	Radio receiving from 55247946<br>
+Sky 8	55248929	Radio idle from 55248929<br>
+Sky 8	55253337	Radio transmitting from 55253337<br>
+Sky 8	55254327	Radio idle from 55254327<br>
+Sky 8	55256083	Radio receiving from 55256083<br>
+Sky 8	55257067	Radio idle from 55257067<br>
+Sky 8	55268132	Radio receiving from 55268132<br>
+Sky 8	55269115	Radio idle from 55269115<br>
+Sky 8	59159048	Radio receiving from 59159048<br>
+Sky 8	59160031	Radio idle from 59160031<br>
+Sky 8	59169384	Radio transmitting from 59169384<br>
+Sky 8	59170367	Radio idle from 59170367<br>
+Sky 8	59173242	Radio receiving from 59173242<br>
+Sky 8	59174232	Radio idle from 59174232<br>
+Sky 8	59174996	Radio receiving from 59174996<br>
+Sky 8	59175978	Radio idle from 59175978<br>
+Sky 8	63065573	Radio receiving from 63065573<br>
+Sky 8	63066556	Radio idle from 63066556<br>
+Sky 8	63075154	Radio receiving from 63075154<br>
+Sky 8	63076136	Radio idle from 63076136<br>
+Sky 8	63078259	Radio transmitting from 63078259<br>
+Sky 8	63079241	Radio idle from 63079241<br>
+Sky 8	63086892	Radio receiving from 63086892<br>
+Sky 8	63087880	Radio idle from 63087880<br>
+Sky 8	66971700	Radio receiving from 66971700<br>
+Sky 8	66972683	Radio idle from 66972683<br>
+Sky 8	66979931	Radio transmitting from 66979931<br>
+Sky 8	66980913	Radio idle from 66980913<br>
+Sky 8	66985463	Radio receiving from 66985463<br>
+Sky 8	66986445	Radio idle from 66986445<br>
+Sky 8	70879080	Radio receiving from 70879080<br>
+Sky 8	70880062	Radio idle from 70880062<br>
+Sky 8	70887847	Radio receiving from 70887847<br>
+Sky 8	70888837	Radio idle from 70888837<br>
+Sky 8	70892986	Radio transmitting from 70892986<br>
+Sky 8	70893976	Radio idle from 70893976<br>
+Sky 8	70899414	Radio receiving from 70899414<br>
+Sky 8	70900397	Radio idle from 70900397<br>
+Sky 8	74786581	Radio receiving from 74786581<br>
+Sky 8	74787565	Radio idle from 74787565<br>
+Sky 8	74793690	Radio receiving from 74793690<br>
+Sky 8	74794673	Radio idle from 74794673<br>
+Sky 8	74796430	Radio transmitting from 74796430<br>
+Sky 8	74797413	Radio idle from 74797413<br>
+Sky 8	74806313	Radio receiving from 74806313<br>
+Sky 8	74807295	Radio idle from 74807295<br>
+Sky 8	78687277	Radio receiving from 78687277<br>
+Sky 8	78688259	Radio idle from 78688259<br>
+Sky 8	78696431	Radio receiving from 78696431<br>
+Sky 8	78696606	Radio transmitting from 78696606<br>
+Sky 8	78696606	Radio transmitting from 78696606<br>
+Sky 8	78697413	Radio transmitting from 78697413<br>
+Sky 8	78697588	Radio idle from 78697588<br>
+Sky 8	78703362	Radio receiving from 78703362<br>
+Sky 8	78704352	Radio idle from 78704352<br>
+Sky 8	82593466	Radio receiving from 82593466<br>
+Sky 8	82594448	Radio idle from 82594448<br>
+Sky 8	82602559	Radio receiving from 82602559<br>
+Sky 8	82603542	Radio idle from 82603542<br>
+Sky 8	82605580	Radio transmitting from 82605580<br>
+Sky 8	82606571	Radio idle from 82606571<br>
+Sky 8	82616707	Radio receiving from 82616707<br>
+Sky 8	82617690	Radio idle from 82617690<br>
+Sky 8	86501333	Radio receiving from 86501333<br>
+Sky 8	86502316	Radio idle from 86502316<br>
+Sky 8	86508404	Radio transmitting from 86508404<br>
+Sky 8	86509387	Radio idle from 86509387<br>
+Sky 8	86515170	Radio receiving from 86515170<br>
+Sky 8	86516157	Radio idle from 86516157<br>
+Sky 8	86519112	Radio receiving from 86519112<br>
+Sky 8	86520095	Radio idle from 86520095<br>
+Sky 8	90409231	Radio receiving from 90409231<br>
+Sky 8	90410214	Radio idle from 90410214<br>
+Sky 8	90415570	Radio transmitting from 90415570<br>
+Sky 8	90416552	Radio idle from 90416552<br>
+Sky 8	90419239	Radio receiving from 90419239<br>
+Sky 8	90420222	Radio idle from 90420222<br>
+Sky 8	94310476	Radio receiving from 94310476<br>
+Sky 8	94311461	Radio idle from 94311461<br>
+Sky 8	94323009	Radio transmitting from 94323009<br>
+Sky 8	94323992	Radio idle from 94323992<br>
+Sky 8	94325749	Radio receiving from 94325749<br>
+Sky 8	94326733	Radio idle from 94326733<br>
+Sky 8	94332319	Radio receiving from 94332319<br>
+Sky 8	94333313	Radio idle from 94333313<br>
+Sky 9	0	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	4789738	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	4789739	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	4792255	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	4792257	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	4792258	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	4792264	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	4792274	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	4792284	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	16196720	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	16196730	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	16196740	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	24009494	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	24009504	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	24009514	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	31823092	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	31823102	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	31823112	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	39643466	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	39643476	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	39643486	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	43543370	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	43543380	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 9	43543390	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 9	47454318	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 9	47454328	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 9	47454338	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	55255687	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	55255697	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	55255707	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	63080613	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	63080623	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	63080633	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	66982803	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	66982813	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 9	66982823	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 9	70895336	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 9	70895346	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 9	70895356	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	78698946	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	78698956	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	78698966	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	86510745	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	86510755	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	86510765	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	90418428	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	90418438	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 9	90418448	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 9	94325364	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 9	94325374	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 9	94325384	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 9	31833044	Mote Sky 9 says:<br>~Edthe node 9 has been switchedi~~Ed off  <br>
+Sky 9	31837520	Mote Sky 9 says:<br>the node 9 has been s~~Edwitched off  <br>
+Sky 9	31842560	Mote Sky 9 says:<br>the message ha~~Eds been inoltred towards 10 <br>
+Sky 9	31848487	Mote Sky 9 says:<br>~~Edthe node 9 has been switchedi~~Ed off  <br>
+Sky 9	47464852	Mote Sky 9 says:<br>X~~Edthe message has been inoltre~~Edd towards 10 <br>
+Sky 9	47469403	Mote Sky 9 says:<br>the node 9 has]~~Ed been switched off  <br>
+Sky 9	47472626	Mote Sky 9 says:<br>node 3 ~~Edswitching on<br>
+Sky 9	47477062	Mote Sky 9 says:<br>the node 9 has ]~~Edbeen switched off  <br>
+Sky 9	63089665	Mote Sky 9 says:<br>"~~Edthe message has been inoltre~~Edd towards 10 <br>
+Sky 9	63095594	Mote Sky 9 says:<br>the node 9 has]~~Ed been switched off  <br>
+Sky 9	63102271	Mote Sky 9 says:<br>the mes}]~~Edsage has been inoltred towar&~~Edds 10 <br>
+Sky 9	63106663	Mote Sky 9 says:<br>the node 9 has been s~~Edwitched off  <br>
+Sky 9	78704660	Mote Sky 9 says:<br>e~~Ednode 3 switching on<br>
+Sky 9	78709212	Mote Sky 9 says:<br>the nodet~~Ed 9 has been switched off  <br>
+Sky 9	78715822	Mote Sky 9 says:<br>t>~~Edhe message has been inoltred8~~Ed towards 10 <br>
+Sky 9	78720258	Mote Sky 9 says:<br>the node 9 has `~~Edbeen switched off  <br>
+Sky 9	94334453	Mote Sky 9 says:<br>"~~Edthe message has been inoltre~~Edd towards 10 <br>
+Sky 9	94340276	Mote Sky 9 says:<br>the node 9 has]~~Ed been switched off  <br>
+Sky 9	94343618	Mote Sky 9 says:<br>node 3 ~~Edswitching on<br>
+Sky 9	94348040	Mote Sky 9 says:<br>the node 9 has ]~~Edbeen switched off  <br>
+Sky 9	0	Radio channel -3337<br>
+Sky 9	4795149	Radio channel 26<br>
+Sky 9	4796005	Radio channel 26<br>
+Sky 9	4796533	Radio channel 26<br>
+Sky 9	16201993	Radio channel 26<br>
+Sky 9	16203232	Radio channel 26<br>
+Sky 9	24020230	Radio channel 26<br>
+Sky 9	24021469	Radio channel 26<br>
+Sky 9	27924894	Radio channel 26<br>
+Sky 9	27926133	Radio channel 26<br>
+Sky 9	31829509	Radio channel 26<br>
+Sky 9	31830754	Radio channel 26<br>
+Sky 9	35738584	Radio channel 26<br>
+Sky 9	35739822	Radio channel 26<br>
+Sky 9	39649778	Radio channel 26<br>
+Sky 9	39651015	Radio channel 26<br>
+Sky 9	47462289	Radio channel 26<br>
+Sky 9	47463535	Radio channel 26<br>
+Sky 9	51365384	Radio channel 26<br>
+Sky 9	51366622	Radio channel 26<br>
+Sky 9	55267908	Radio channel 26<br>
+Sky 9	55269147	Radio channel 26<br>
+Sky 9	59174772	Radio channel 26<br>
+Sky 9	59176010	Radio channel 26<br>
+Sky 9	63086668	Radio channel 26<br>
+Sky 9	63087912	Radio channel 26<br>
+Sky 9	70899190	Radio channel 26<br>
+Sky 9	70900429	Radio channel 26<br>
+Sky 9	74806089	Radio channel 26<br>
+Sky 9	74807327	Radio channel 26<br>
+Sky 9	78703138	Radio channel 26<br>
+Sky 9	78704383	Radio channel 26<br>
+Sky 9	82616483	Radio channel 26<br>
+Sky 9	82617722	Radio channel 26<br>
+Sky 9	86518888	Radio channel 26<br>
+Sky 9	86520126	Radio channel 26<br>
+Sky 9	94332095	Radio channel 26<br>
+Sky 9	94333344	Radio channel 26<br>
+Sky 9	0	Radio HW was turned off<br>
+Sky 9	4796005	Radio HW was turned off<br>
+Sky 9	4796533	Radio HW was turned on<br>
+Sky 9	16201993	Radio HW was turned on<br>
+Sky 9	16203232	Radio HW was turned on<br>
+Sky 9	24020230	Radio HW was turned on<br>
+Sky 9	24021469	Radio HW was turned on<br>
+Sky 9	27924894	Radio HW was turned on<br>
+Sky 9	27926133	Radio HW was turned on<br>
+Sky 9	31829509	Radio HW was turned on<br>
+Sky 9	31830754	Radio HW was turned on<br>
+Sky 9	35738584	Radio HW was turned on<br>
+Sky 9	35739822	Radio HW was turned on<br>
+Sky 9	39649778	Radio HW was turned on<br>
+Sky 9	39651015	Radio HW was turned on<br>
+Sky 9	47462289	Radio HW was turned on<br>
+Sky 9	47463535	Radio HW was turned on<br>
+Sky 9	51365384	Radio HW was turned on<br>
+Sky 9	51366622	Radio HW was turned on<br>
+Sky 9	55267908	Radio HW was turned on<br>
+Sky 9	55269147	Radio HW was turned on<br>
+Sky 9	59174772	Radio HW was turned on<br>
+Sky 9	59176010	Radio HW was turned on<br>
+Sky 9	63086668	Radio HW was turned on<br>
+Sky 9	63087912	Radio HW was turned on<br>
+Sky 9	70899190	Radio HW was turned on<br>
+Sky 9	70900429	Radio HW was turned on<br>
+Sky 9	74806089	Radio HW was turned on<br>
+Sky 9	74807327	Radio HW was turned on<br>
+Sky 9	78703138	Radio HW was turned on<br>
+Sky 9	78704383	Radio HW was turned on<br>
+Sky 9	82616483	Radio HW was turned on<br>
+Sky 9	82617722	Radio HW was turned on<br>
+Sky 9	86518888	Radio HW was turned on<br>
+Sky 9	86520126	Radio HW was turned on<br>
+Sky 9	94332095	Radio HW was turned on<br>
+Sky 9	94333344	Radio HW was turned on<br>
+Sky 9	0	Radio idle from 0<br>
+Sky 9	16194378	Radio receiving from 16194378<br>
+Sky 9	16195361	Radio idle from 16195361<br>
+Sky 9	16202217	Radio transmitting from 16202217<br>
+Sky 9	16203200	Radio idle from 16203200<br>
+Sky 9	24007153	Radio receiving from 24007153<br>
+Sky 9	24008136	Radio idle from 24008136<br>
+Sky 9	24016339	Radio receiving from 24016339<br>
+Sky 9	24017321	Radio idle from 24017321<br>
+Sky 9	24020455	Radio transmitting from 24020455<br>
+Sky 9	24021437	Radio idle from 24021437<br>
+Sky 9	27911301	Radio receiving from 27911301<br>
+Sky 9	27912292	Radio idle from 27912292<br>
+Sky 9	27925118	Radio transmitting from 27925118<br>
+Sky 9	27926101	Radio idle from 27926101<br>
+Sky 9	31820751	Radio receiving from 31820751<br>
+Sky 9	31821734	Radio idle from 31821734<br>
+Sky 9	31824963	Radio receiving from 31824963<br>
+Sky 9	31825946	Radio idle from 31825946<br>
+Sky 9	31829733	Radio transmitting from 31829733<br>
+Sky 9	31830723	Radio idle from 31830723<br>
+Sky 9	35728619	Radio receiving from 35728619<br>
+Sky 9	35729602	Radio idle from 35729602<br>
+Sky 9	35738808	Radio transmitting from 35738808<br>
+Sky 9	35739791	Radio idle from 35739791<br>
+Sky 9	35743212	Radio receiving from 35743212<br>
+Sky 9	35744202	Radio idle from 35744202<br>
+Sky 9	39641125	Radio receiving from 39641125<br>
+Sky 9	39642108	Radio idle from 39642108<br>
+Sky 9	39650002	Radio transmitting from 39650002<br>
+Sky 9	39650984	Radio idle from 39650984<br>
+Sky 9	39652740	Radio receiving from 39652740<br>
+Sky 9	39653724	Radio idle from 39653724<br>
+Sky 9	43540503	Radio receiving from 43540503<br>
+Sky 9	43541494	Radio idle from 43541494<br>
+Sky 9	43555371	Radio receiving from 43555371<br>
+Sky 9	43556353	Radio idle from 43556353<br>
+Sky 9	47451977	Radio receiving from 47451977<br>
+Sky 9	47452960	Radio idle from 47452960<br>
+Sky 9	47459454	Radio receiving from 47459454<br>
+Sky 9	47460436	Radio idle from 47460436<br>
+Sky 9	47462513	Radio transmitting from 47462513<br>
+Sky 9	47463503	Radio idle from 47463503<br>
+Sky 9	51355918	Radio receiving from 51355918<br>
+Sky 9	51356902	Radio idle from 51356902<br>
+Sky 9	51365608	Radio transmitting from 51365608<br>
+Sky 9	51366591	Radio idle from 51366591<br>
+Sky 9	55253337	Radio receiving from 55253337<br>
+Sky 9	55254327	Radio idle from 55254327<br>
+Sky 9	55265393	Radio receiving from 55265393<br>
+Sky 9	55266375	Radio idle from 55266375<br>
+Sky 9	55268132	Radio transmitting from 55268132<br>
+Sky 9	55269115	Radio idle from 55269115<br>
+Sky 9	59169384	Radio receiving from 59169384<br>
+Sky 9	59170367	Radio idle from 59170367<br>
+Sky 9	59174996	Radio transmitting from 59174996<br>
+Sky 9	59175978	Radio idle from 59175978<br>
+Sky 9	59185864	Radio receiving from 59185864<br>
+Sky 9	59186847	Radio idle from 59186847<br>
+Sky 9	63078259	Radio receiving from 63078259<br>
+Sky 9	63079241	Radio idle from 63079241<br>
+Sky 9	63086892	Radio transmitting from 63086892<br>
+Sky 9	63087880	Radio idle from 63087880<br>
+Sky 9	63089780	Radio receiving from 63089780<br>
+Sky 9	63090770	Radio idle from 63090770<br>
+Sky 9	66979931	Radio receiving from 66979931<br>
+Sky 9	66980913	Radio idle from 66980913<br>
+Sky 9	66994518	Radio receiving from 66994518<br>
+Sky 9	66995501	Radio idle from 66995501<br>
+Sky 9	70892986	Radio receiving from 70892986<br>
+Sky 9	70893976	Radio idle from 70893976<br>
+Sky 9	70895733	Radio receiving from 70895733<br>
+Sky 9	70896716	Radio idle from 70896716<br>
+Sky 9	70899414	Radio transmitting from 70899414<br>
+Sky 9	70900397	Radio idle from 70900397<br>
+Sky 9	74796430	Radio receiving from 74796430<br>
+Sky 9	74797413	Radio idle from 74797413<br>
+Sky 9	74806313	Radio transmitting from 74806313<br>
+Sky 9	74807295	Radio idle from 74807295<br>
+Sky 9	78696606	Radio receiving from 78696606<br>
+Sky 9	78697588	Radio idle from 78697588<br>
+Sky 9	78703178	Radio receiving from 78703178<br>
+Sky 9	78703362	Radio transmitting from 78703362<br>
+Sky 9	78703362	Radio transmitting from 78703362<br>
+Sky 9	78704168	Radio transmitting from 78704168<br>
+Sky 9	78704352	Radio idle from 78704352<br>
+Sky 9	82605580	Radio receiving from 82605580<br>
+Sky 9	82606571	Radio idle from 82606571<br>
+Sky 9	82613568	Radio receiving from 82613568<br>
+Sky 9	82614550	Radio idle from 82614550<br>
+Sky 9	82616707	Radio transmitting from 82616707<br>
+Sky 9	82617690	Radio idle from 82617690<br>
+Sky 9	86508404	Radio receiving from 86508404<br>
+Sky 9	86509387	Radio idle from 86509387<br>
+Sky 9	86519112	Radio transmitting from 86519112<br>
+Sky 9	86520095	Radio idle from 86520095<br>
+Sky 9	86524456	Radio receiving from 86524456<br>
+Sky 9	86525439	Radio idle from 86525439<br>
+Sky 9	90415570	Radio receiving from 90415570<br>
+Sky 9	90416552	Radio idle from 90416552<br>
+Sky 9	90425253	Radio receiving from 90425253<br>
+Sky 9	90426243	Radio idle from 90426243<br>
+Sky 9	94323009	Radio receiving from 94323009<br>
+Sky 9	94323992	Radio idle from 94323992<br>
+Sky 9	94332319	Radio transmitting from 94332319<br>
+Sky 9	94333313	Radio idle from 94333313<br>
+Sky 9	94336102	Radio receiving from 94336102<br>
+Sky 9	94337084	Radio idle from 94337084<br>
+Sky 10	0	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	4637741	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	4637742	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	4640258	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	4640260	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	4640261	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	4640267	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	4640277	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	4640287	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	16204561	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	16204570	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	16204580	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	24022797	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	24022807	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	24022817	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	27928012	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	27928021	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 10	27928031	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 10	31832083	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 10	31832093	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 10	31832103	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	35741705	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	35741715	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 10	35741725	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 10	39652344	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 10	39652354	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 10	39652364	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	47464863	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	47464873	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	47464883	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	51368502	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	51368512	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 10	51368521	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 10	55270475	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 10	55270485	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 10	55270495	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	59177878	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	59177888	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 10	59177898	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 10	63089240	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 10	63089250	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 10	63089260	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	70901757	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	70901767	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	70901777	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	74809206	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	74809215	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 10	74809225	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 10	78705712	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 10	78705722	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 10	78705732	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	82619590	LED state:<br>Red = ON<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	82619600	LED state:<br>Red = ON<br>Green = ON<br>Blue = OFF<br>
+Sky 10	82619610	LED state:<br>Red = ON<br>Green = ON<br>Blue = ON<br>
+Sky 10	86521455	LED state:<br>Red = OFF<br>Green = ON<br>Blue = ON<br>
+Sky 10	86521465	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = ON<br>
+Sky 10	86521475	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	94334673	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	94334683	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	94334693	LED state:<br>Red = OFF<br>Green = OFF<br>Blue = OFF<br>
+Sky 10	31838673	Mote Sky 10 says:<br>~Edthe node 10 has been switche~~Edd off  <br>
+Sky 10	31843232	Mote Sky 10 says:<br>the node 10 has been~~Ed switched off  <br>
+Sky 10	31846537	Mote Sky 10 says:<br>node 10 swit~~Edching on<br>
+Sky 10	31851026	Mote Sky 10 says:<br>the node 10 has beee~~Edn switched off  <br>
+Sky 10	55274222	Mote Sky 10 says:<br>^~~Ednode 10 switching on<br>
+Sky 10	55280336	Mote Sky 10 says:<br>the nod~~Ede 10 has been switched off  '~~Ed<br>
+Sky 10	55284895	Mote Sky 10 says:<br>the node 10 has been switch"~~Eded off  <br>
+Sky 10	55288200	Mote Sky 10 says:<br>node 10 switching on~~Edn<br>
+Sky 10	55292655	Mote Sky 10 says:<br>the node 10 has been switc{~~Edhed off  <br>
+Sky 10	78709472	Mote Sky 10 says:<br>x~~Ednode 10 switching on<br>
+Sky 10	78715586	Mote Sky 10 says:<br>the nod~~Ede 10 has been switched off  '~~Ed<br>
+Sky 10	78720131	Mote Sky 10 says:<br>the node 10 has been switch"~~Eded off  <br>
+Sky 10	78723450	Mote Sky 10 says:<br>node 10 switching on~~Edn<br>
+Sky 10	78727905	Mote Sky 10 says:<br>the node 10 has been switc{~~Edhed off  <br>
+Sky 10	0	Radio channel -3337<br>
+Sky 10	4643152	Radio channel 26<br>
+Sky 10	4644008	Radio channel 26<br>
+Sky 10	4644536	Radio channel 26<br>
+Sky 10	0	Radio HW was turned off<br>
+Sky 10	4644008	Radio HW was turned off<br>
+Sky 10	4644536	Radio HW was turned on<br>
+Sky 10	0	Radio idle from 0<br>
+Sky 10	16202217	Radio receiving from 16202217<br>
+Sky 10	16203200	Radio idle from 16203200<br>
+Sky 10	24020455	Radio receiving from 24020455<br>
+Sky 10	24021437	Radio idle from 24021437<br>
+Sky 10	27925118	Radio receiving from 27925118<br>
+Sky 10	27926101	Radio idle from 27926101<br>
+Sky 10	31829733	Radio receiving from 31829733<br>
+Sky 10	31830723	Radio idle from 31830723<br>
+Sky 10	35738808	Radio receiving from 35738808<br>
+Sky 10	35739791	Radio idle from 35739791<br>
+Sky 10	39650002	Radio receiving from 39650002<br>
+Sky 10	39650984	Radio idle from 39650984<br>
+Sky 10	47462513	Radio receiving from 47462513<br>
+Sky 10	47463503	Radio idle from 47463503<br>
+Sky 10	51365608	Radio receiving from 51365608<br>
+Sky 10	51366591	Radio idle from 51366591<br>
+Sky 10	55268132	Radio receiving from 55268132<br>
+Sky 10	55269115	Radio idle from 55269115<br>
+Sky 10	59174996	Radio receiving from 59174996<br>
+Sky 10	59175978	Radio idle from 59175978<br>
+Sky 10	63086892	Radio receiving from 63086892<br>
+Sky 10	63087880	Radio idle from 63087880<br>
+Sky 10	70899414	Radio receiving from 70899414<br>
+Sky 10	70900397	Radio idle from 70900397<br>
+Sky 10	74806313	Radio receiving from 74806313<br>
+Sky 10	74807295	Radio idle from 74807295<br>
+Sky 10	78703362	Radio receiving from 78703362<br>
+Sky 10	78704352	Radio idle from 78704352<br>
+Sky 10	82616707	Radio receiving from 82616707<br>
+Sky 10	82617690	Radio idle from 82617690<br>
+Sky 10	86519112	Radio receiving from 86519112<br>
+Sky 10	86520095	Radio idle from 86520095<br>
+Sky 10	94332319	Radio receiving from 94332319<br>
+Sky 10	94333313	Radio idle from 94333313<br>

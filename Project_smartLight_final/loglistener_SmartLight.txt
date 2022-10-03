@@ -1,0 +1,152 @@
+00:27.915	ID:2	~Edthe node 2 has been switchedW~~Ed off  
+00:27.915	ID:8	~Edthe node 8 has been switchedv~~Ed off  
+00:27.921	ID:2	the node 2 has been s~~Edwitched off  
+00:27.921	ID:8	the node 8 has been s~~Edwitched off  
+00:27.924	ID:2	Node 2 switchi`~~Edng on.
+00:27.924	ID:8	Node 8 switchi~~Edng on.
+00:27.929	ID:2	the message has been ?~~Edinoltred towards 3  
+00:27.931	ID:8	the message has been ?~~Edinoltred towards 9  
+00:31.821	ID:5	~Edthe node 5 has been switchedH~~Ed off  
+00:31.827	ID:3	~Edthe node 3 has been switchedH ~~Ed off  
+00:31.828	ID:5	the node 5 has been s~~Edwitched off  
+00:31.831	ID:3	the node 3 has been s~~Edwitched off  
+00:31.833	ID:9	~Edthe node 9 has been switchedi~~Ed off  
+00:31.833	ID:5	the message ha~~Eds been inoltred towards 3  
+00:31.836	ID:3	the message ha~~Eds been inoltred towards 4 
+00:31.837	ID:9	the node 9 has been s~~Edwitched off  
+00:31.838	ID:10	~Edthe node 10 has been switche~~Edd off  
+00:31.839	ID:5	~~Edthe node 5 has been switchedH~~Ed off  
+00:31.842	ID:3	t~~Edhe node 3 has been switched n~~Edoff  
+00:31.842	ID:9	the message ha~~Eds been inoltred towards 10 
+00:31.843	ID:10	the node 10 has been~~Ed switched off  
+00:31.846	ID:10	node 10 swit~~Edching on
+00:31.848	ID:9	~~Edthe node 9 has been switchedi~~Ed off  
+00:31.851	ID:10	the node 10 has beee~~Edn switched off  
+00:35.745	ID:6	~Edthe node 6 has been switchedH~~Ed off  
+00:35.747	ID:6	node 6 switching on
+00:35.753	ID:6	ti~~Edhe node 6 has been switched ~~Edoff  
+00:35.755	ID:6	node 6 switching on
+00:35.761	ID:6	th~~Ede message has been inoltred ~~Edtowards 7 
+00:43.544	ID:2	:~~Edthe node 2 has been switchedW~~Ed off  
+00:43.544	ID:8	8~~Edthe node 8 has been switchedv~~Ed off  
+00:43.546	ID:5	X~~Edthe message has been inoltre~~Edd towards 3  
+00:43.549	ID:2	the message has been G~~Edinoltred towards 3  
+00:43.550	ID:8	the message has been G~~Edinoltred towards 9  
+00:43.551	ID:5	the node 5 has4p~~Ed been switched off  
+00:43.553	ID:2	the nod~~Ede 2 has been switched off  
+00:43.554	ID:5	Node 5 ~~Edswitching on.
+00:43.555	ID:8	the nod~~Ede 8 has been switched off  
+00:43.560	ID:2	~~Edthe message has been inoltre~~Edd towards 3  
+00:43.560	ID:5	the message ha~~Eds been inoltred towards 3  
+00:43.561	ID:8	R~~Edthe message has been inoltre~~Edd towards 9  
+00:43.563	ID:7	~Edthe node 7 has been switchedWh~~Ed off  
+00:43.568	ID:7	the node 7 has been s~~Edwitched off  
+00:43.571	ID:7	node 7 switchic~~Edng on
+00:43.576	ID:7	the node 7 has been swL~~Editched off  
+00:43.579	ID:7	node 7 switchin~~Edg on
+00:47.462	ID:3	L~~Edthe message has been inoltre~~Edd towards 4 
+00:47.464	ID:9	X~~Edthe message has been inoltre~~Edd towards 10 
+00:47.466	ID:3	the node 3 has ~~Edbeen switched off  
+00:47.469	ID:9	the node 9 has]~~Ed been switched off  
+00:47.470	ID:3	node 3 s~~Edwitching on
+00:47.472	ID:9	node 3 ~~Edswitching on
+00:47.474	ID:3	the node 3 has bl~~Edeen switched off  
+00:47.477	ID:9	the node 9 has ]~~Edbeen switched off  
+00:51.361	ID:6	z~~Edthe node 6 has been switchedH~~Ed off  
+00:51.368	ID:6	the message has been G~~Edinoltred towards 7 
+00:51.372	ID:6	the node~~Ed 6 has been switched off  
+00:51.375	ID:6	nGy~~Edode 6 switching on
+00:55.258	ID:2	~~Edthe node 2 has been switchedW~~Ed off  
+00:55.260	ID:8	~~Edthe node 8 has been switchedv~~Ed off  
+00:55.260	ID:2	Node 2 switching on.
+00:55.262	ID:8	Node 8 switching on.
+00:55.268	ID:2	{~~Edthe message has been inoltre~~Edd towards 3  
+00:55.268	ID:8	C~~Edthe message has been inoltre~~Edd towards 9  
+00:55.273	ID:2	the node 2 has~~Ed been switched off  
+00:55.274	ID:10	^~~Ednode 10 switching on
+00:55.274	ID:8	the node 8 hasbP~~Ed been switched off  
+00:55.280	ID:10	the nod~~Ede 10 has been switched off  '~~Ed
+00:55.284	ID:10	the node 10 has been switch"~~Eded off  
+00:55.288	ID:10	node 10 switching on~~Edn
+00:55.292	ID:10	the node 10 has been switc{~~Edhed off  
+00:59.169	ID:5	~~Edthe node 5 has been switchedH~~Ed off  
+00:59.176	ID:5	the message has been G~~Edinoltred towards 3  
+00:59.181	ID:5	the nod~~Ede 5 has been switched off  
+00:59.189	ID:5	X~~Edthe message has been inoltre~~Edd towards 3  
+01:03.085	ID:6	G~~Edthe node 6 has been switchedH~~Ed off  
+01:03.085	ID:3	~~Edthe message has been inoltre~~Edd towards 4 
+01:03.087	ID:6	node 6 switching on
+01:03.089	ID:9	"~~Edthe message has been inoltre~~Edd towards 10 
+01:03.090	ID:3	the node 3 has ~~Edbeen switched off  
+01:03.095	ID:9	the node 9 has]~~Ed been switched off  
+01:03.096	ID:6	ti~~Edhe message has been inoltred8~~Ed towards 7 
+01:03.096	ID:3	the mess~~Edage has been inoltred toward~~Eds 4 
+01:03.100	ID:6	the node 6 has b~~Edeen switched off  
+01:03.101	ID:3	the node 3 has been swiO~~Edtched off  
+01:03.102	ID:9	the mes}]~~Edsage has been inoltred towar&~~Edds 10 
+01:03.106	ID:9	the node 9 has been s~~Edwitched off  
+01:07.003	ID:7	[~~Edthe node 7 has been switchedWh~~Ed off  
+01:07.007	ID:7	the node 7 has been s~~Edwitched off  
+01:07.010	ID:7	node 7 switchic~~Edng on
+01:07.015	ID:7	the node 7 has been swL~~Editched off  
+01:07.018	ID:7	node 7 switchin~~Edg on
+01:10.889	ID:2	T~~Edthe message has been inoltre~~Edd towards 3  
+01:10.889	ID:5	~~Edthe node 5 has been switchedH~~Ed off  
+01:10.891	ID:8	T~~Edthe message has been inoltre~~Edd towards 9  
+01:10.891	ID:5	Node 5 switching on.
+01:10.894	ID:2	the node 2 has~~Ed been switched off  
+01:10.896	ID:8	the node 8 hasbP~~Ed been switched off  
+01:10.901	ID:5	z~~Edthe message has been inoltre~~Edd towards 3  
+01:10.902	ID:2	the mes}]~~Edsage has been inoltred towar&~~Edds 3  
+01:10.904	ID:8	the mes}]~~Edsage has been inoltred towar&~~Edds 9  
+01:10.905	ID:5	the node 5 has4p~~Ed been switched off  
+01:10.906	ID:8	the node 8 has been s
+01:10.907	ID:2	the node 2 has been s_~~Edwitched off  
+01:10.908	ID:8	~~Edwitched off  
+01:18.704	ID:9	e~~Ednode 3 switching on
+01:18.707	ID:6	~~Edthe message has been inoltre~~Edd towards 7 
+01:18.708	ID:3	Z~~Ednode 3 switching on
+01:18.709	ID:9	the nodet~~Ed 9 has been switched off  
+01:18.709	ID:10	x~~Ednode 10 switching on
+01:18.712	ID:6	the node 6 has v~~Edbeen switched off  
+01:18.713	ID:3	the nodet~~Ed 3 has been switched off  
+01:18.715	ID:6	node 6 sc~~Edwitching on
+01:18.715	ID:10	the nod~~Ede 10 has been switched off  '~~Ed
+01:18.715	ID:9	t>~~Edhe message has been inoltred8~~Ed towards 10 
+01:18.719	ID:3	t~~Edhe message has been inoltred8~~Ed towards 4 
+01:18.719	ID:6	the node 6 has b~~Edeen switched off  
+01:18.720	ID:10	the node 10 has been switch"~~Eded off  
+01:18.720	ID:9	the node 9 has `~~Edbeen switched off  
+01:18.723	ID:10	node 10 switching on~~Edn
+01:18.724	ID:3	the node 3 has bh~~Edeen switched off  
+01:18.727	ID:10	the node 10 has been switc{~~Edhed off  
+01:22.601	ID:2	e~~EdNode 2 switching on.
+01:22.601	ID:8	e~~EdNode 8 switching on.
+01:22.608	ID:2	the mesy~~Edsage has been inoltred towar&~~Edds 3  
+01:22.609	ID:8	the mesT3~~Edsage has been inoltred towar&~~Edds 9  
+01:22.611	ID:8	the node 8 has been s
+01:22.614	ID:2	the node 2 has been s_~~Edwitched off  
+01:22.614	ID:8	~~Edwitched off  
+01:22.619	ID:2	the message ha~~Eds been inoltred towards 3  
+01:22.620	ID:8	the message ha~~Eds been inoltred towards 9  
+01:26.513	ID:5	T~~Edthe message has been inoltre~~Edd towards 3  
+01:26.518	ID:5	the node 5 has4p~~Ed been switched off  
+01:26.525	ID:5	the mes}]~~Edsage has been inoltred towar&~~Edds 3  
+01:26.531	ID:5	the node 5 has been sW~~Edwitched off  
+01:30.427	ID:6	~~Ednode 6 switching on
+01:30.433	ID:7	[~~Edthe node 7 has been switchedWh~~Ed off  
+01:30.434	ID:6	the mess|~~Edage has been inoltred toward~~Eds 7 
+01:30.438	ID:7	the node 7 has been s~~Edwitched off  
+01:30.438	ID:6	the node 6 has been swi	~~Edtched off  
+01:30.441	ID:7	node 7 switchic~~Edng on
+01:30.443	ID:6	the message has Q~~Edbeen inoltred towards 7 
+01:30.445	ID:7	the node 7 has been swL~~Editched off  
+01:30.449	ID:7	node 7 switchin~~Edg on
+01:34.332	ID:3	~~Edthe message has been inoltre~~Edd towards 4 
+01:34.334	ID:9	"~~Edthe message has been inoltre~~Edd towards 10 
+01:34.337	ID:3	the node 3 has ~~Edbeen switched off  
+01:34.340	ID:9	the node 9 has]~~Ed been switched off  
+01:34.340	ID:3	node 3 s~~Edwitching on
+01:34.343	ID:9	node 3 ~~Edswitching on
+01:34.344	ID:3	the node 3 has bl~~Edeen switched off  
+01:34.348	ID:9	the node 9 has ]~~Edbeen switched off  
